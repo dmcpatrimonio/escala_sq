@@ -1,0 +1,19 @@
+filters:
+- pandoc-internalrefs
+- pandoc-citeproc
+fail-if-warnings       : True
+file-scope             : True
+standalone             : True
+to                     : 'docx'
+default-image-extension: '.jpg'
+table-of-contents      : False
+number-sections        : False
+bibliography           : 'biblio.bib'
+csl                    : 'spec/styles/associacao-brasileira-de-normas-tecnicas-ufrgs.csl'
+bibliography-title     : 'Referências bibliográficas'
+resource-path:
+- .
+- fig
+author                 : ''
+affiliation            : ''
+reference-doc          : 'spec/paranoa.docx'
