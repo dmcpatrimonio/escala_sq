@@ -46,8 +46,9 @@ a cabo uma reformulação integral não apenas da "vizinhança", mas também
 de suas componentes, como a quadra e o bloco edificado
 [@panerai:2013formas]. O resultado mais emblemático dessa reformulação,
 ao menos no âmbito da arquitetura erudita, é a superquadra de Brasília,
-concebida por Lucio Costa no *Relatório do plano pilôto de Brasília*
-vencedor, em 1957, do concurso para o projeto da nova capital federal.
+concebida por Lucio Costa no *Relatório do Plano Pilôto de Brasília*
+(P.P.B.) vencedor, em 1957, do concurso para o projeto da nova capital
+federal.
 
 É na Superquadra que se manifesta de modo mais característico a
 modernidade que perpassa o projeto de Lucio Costa [@eldahdah:2005case],
@@ -114,10 +115,9 @@ frequente recurso a marcos conceituais *a priori.* Autores mais próximos
 --- cronológica ou ideologicamente --- à concepção da nova capital, tais
 como Gorovitz [-@gorovitz:1985brasilia] ou Carpintero
 [-@carpintero:1998brasilia], tendem a reportar seus argumentos à exegese
-do *Relatório do plano pilôto de Brasília* [-@costa:1957relatorio],
-tomando a resenha do discurso de Lucio Costa pela análise do projeto. Na
-crítica internacional, por outro lado, desde Bill e Zevi, antes da
-inauguração oficial da cidade,[^1] até Balducci
+do *Relatório do P.P.B.*, tomando a resenha do discurso de Lucio Costa
+pela análise do projeto. Na crítica internacional, por outro lado, desde
+Bill e Zevi, antes da inauguração oficial da cidade,[^1] até Balducci
 [-@balducci:2010brasilia] e mesmo Koolhaas [@koolhaas:2016brasilia],
 prevalece o juízo normativo em que o modernismo europeu é tido como
 paradigmático, sendo a manifestação brasileira "um mero 'regionalismo'
@@ -170,28 +170,39 @@ problemas funcionais relativos" à obra modernista, portanto, triunfa o
 repertório-modelo em substituição aos tipos urbanos tradicionais
 [@argan:1966tipologia14, col. 14]. Outrossim, devido à primazia do
 discurso e da abstração, o recurso a um repertório legitimador ---
-repertório este que perpassa todo o texto do *Relatório do plano pilôto
-de Brasília,* de "Piccadilly circus" à "técnica oriental milenar dos
-terraplenos" [@costa:1957relatorio, p. 38] --- prescinde da averiguação
-de qualquer semelhança visual, espacial ou funcional entre o projeto e
-seus modelos.
+repertório este que perpassa todo o texto do *Relatório do P.P.B.,* de
+"Piccadilly circus" à "técnica oriental milenar dos terraplenos"
+[@costa:1957relatorio, p. 38] --- se dá por livre associação de ideias,
+não implicando efetiva semelhança visual, espacial ou funcional entre o
+projeto e seus modelos.
 
 De igual modo, o discurso verbal sobre o projeto tangencia as definições
 convencionais de certos conceitos para postular, no lugar destas, um
 universo semântico particular; ironicamente, Stamo Papadaki, um dos
-jurados no concurso de Brasília, aponta com algum cinismo este perigo
-[@papadaki:1957concurso, p. 22]. Do próprio *Relatório,* é
-frequentemente citada a discussão do "caráter monumental", que avança o
-espantalho retórico da "ostentação" a ser contrastado com a
-tergiversante "expressão palpável [...] daquilo que vale e significa"
-[@costa:1957relatorio, p. 34]. Anos mais tarde, Lucio Costa criará outro
-expediente conceitual *sui generis* na formulação do sistema das "quatro
-escalas de Brasília". Em Costa, o conceito de "escala" designa não a
-razão entre dimensões físicas dos elementos espaciais, mas categorias de
-leitura do seu projeto segundo o caráter geral das diversas áreas da
-cidade. Lucio Costa emprega a palavra "escala" para designar essas
-categorias pela primeira vez numa entrevista de 1961 ao jornal do
-Brasil. No entanto, é somente em 1974 que ele sugere com maior clareza o
+jurados no concurso de Brasília, aponta com algum cinismo este perigo:
+
+> Mark Twain certa vez observou [...] que freqüentes mal-entendidos
+> surgem do fato de que várias pessoas usam a mesma palavra com sentido
+> diferente ou palavras diferentes para exprimir a mesma coisa. Tenho
+> plena consciência dêste fato, já que se aplica particularmente ao
+> terreno do urbanismo. [@papadaki:1957concurso, p. 22]
+
+Cita-se amiúde o obscuro tratamento que Lucio Costa dá ao problema do
+"caráter monumental" em Brasília. Ele avança o espantalho retórico da
+"ostentação" a ser contrastado com a tergiversante "expressão palpável
+[...] daquilo que vale e significa" [@costa:1957relatorio, p. 34], para
+afinal de contas recorrer à provada e aprovada técnica Beaux-Arts de
+exprimir a monumentalidade por meio de relações contrastantes entre
+cheios e vazios [@marquez:2009, p. 45].
+
+Anos mais tarde, Lucio Costa criará outro expediente conceitual *sui
+generis* na formulação do sistema das "quatro escalas de Brasília". Em
+Costa, o conceito de "escala" designa não a razão entre dimensões
+físicas dos elementos espaciais, mas categorias de leitura do seu
+projeto segundo o caráter geral das diversas áreas da cidade. Ele
+emprega a palavra "escala" para designar essas categorias pela primeira
+vez numa entrevista de 1961 ao *Jornal do Brasil* [@marquez:2009,
+p. 43]. No entanto, é somente em 1974 que ele sugere com maior clareza o
 sistema das quatro escalas. Finalmente, no artigo "Brasília revisitada"
 [-@costa:1987brasilia, p. 116], Costa será taxativo: "a concepção urbana
 de Brasília se traduz em quatro escalas: a monumental, a residencial, a
@@ -202,16 +213,16 @@ gregária e a bucólica."
 A relação entre o conceito convencional de escala e as "escalas" de
 Brasília é ambígua. Italo Campofiorito, ao transformar as palavras de
 seu amigo Lucio Costa em decreto de preservação da cidade
-[@distritofederal:1987regulamenta], trata cada escala como meramente
-sinônimo de um "setor" urbanístico --- interpretação recepcionada na
-portaria do atual Instituto do Patrimônio Histórico e Artístico Nacional
-(IPHAN) n.° 314 [@ibpc:1992protecao]. Por sua vez, Gorovitz, no seu
-livro de 1985 --- anterior, portanto, à afirmação categórica das escalas
-no "Brasília revisitada" --- adota a ambiguidade característica do
-discurso arquitetônico modernista. Sua tentativa de reconciliar a
-conceituação de "escala" sugerida por Costa com o sentido comum da
-palavra passa pelo problema de como determinar o caráter dos diferentes
-setores da cidade:
+[@distritofederal:1987regulamenta], trata cada uma das quatro escalas
+como meramente sinônimo de um "setor" urbanístico --- interpretação
+recepcionada na portaria do atual Instituto do Patrimônio Histórico e
+Artístico Nacional (IPHAN) n.° 314 [@ibpc:1992protecao]. Por sua vez,
+Gorovitz, no seu livro de 1985 --- anterior, portanto, à afirmação
+categórica das escalas no "Brasília revisitada" --- adota a ambiguidade
+característica do discurso arquitetônico modernista. Sua tentativa de
+reconciliar a conceituação de "escala" sugerida por Costa com o sentido
+comum da palavra passa pelo problema de como determinar o caráter dos
+diferentes setores da cidade:
 
 > Em Brasília, o tratamento diferenciado das partes pressupõe valores
 > externos mediados pelo conceito de escala e introduzidos por vontade
@@ -221,145 +232,123 @@ setores da cidade:
 O único critério exposto com clareza nessa mediação das "partes" de
 Brasília por meio das "escalas" é, portanto, a liberdade de que goza o
 urbanista para estipular os parâmetros do seu projeto. Assim, ao mesmo
-tempo em que reconhece a determinação externa da arquitetura de Lucio
-Costa por fatores culturais, Gorovitz atribui ao arquiteto o poder
-demiúrgico de, por sua vez, determinar de todo a definição e o modo de
-apropriação de tais fatores [@gorovitz:1985brasilia, p. 54].
+tempo em que reconhece a determinação externa exercida por fatores
+culturais sobre a arquitetura de Lucio Costa, Gorovitz atribui ao
+arquiteto o poder demiúrgico de, por sua vez, determinar de todo a
+definição e o modo de apropriação de tais fatores
+[@gorovitz:1985brasilia, p. 54].
 
 A interpretação de Gorovitz parece sugerir que a apreensão das "escalas"
 de Brasília se dá na confrontação *entre* os diferentes setores,
 confrontação esta que se torna possível tão somente pelo percurso "nas
-pistas centrais de velocidade" [@costa:1957relatorio, p. 34]:
-perspectiva tornada ainda mais explícita pela preocupação em "garantir a
-ordenação urbanística" das superquadras sobretudo no "segundo plano e
-como que amortecido na paisagem" vista desde o eixo rodoviário
-[@costa:1957relatorio, p. 42]. Ora, tal perspectiva deixa de lado a
-apreensão local do espaço pelo usuário pedestre da unidade de
-vizinhança. Percebe-se, aí, uma potencial crise na pregnante alavancagem
-discursiva do conceito de "escala", em contraste com a carência de
-definição dos percursos e das experiências espaciais cotidianas.
+pistas centrais de velocidade" do eixo Rodoviário [@costa:1957relatorio,
+p. 34]: perspectiva tornada ainda mais explícita pela preocupação em
+"garantir a ordenação urbanística" das superquadras sobretudo no
+"segundo plano e como que amortecido na paisagem" vista desde o eixo
+rodoviário [@costa:1957relatorio, p. 42].
 
-A unidade de vizinhança de Brasília é composta por um sistema escalonado
-de quatro superquadras. À semelhança do conceito suburbanista de Perry,
-Costa prevê que cada superquadra seja equipadas com jardim de infância,
-escola primária, banca de revistas na via de entrada e comércio local
-contíguo aos seus limites. Equipamentos de maior abrangência, como
-escola secundária, cinema, clube e igreja pertencem ao âmbito da unidade
-de vizinhança. Os blocos residenciais, livremente alocados nos limites
-do cinturão verde, constituem os únicos espaços de propriedade privada
-dentro da superquadra --- ainda assim, com térreo parcialmente
-desimpedido ---, sendo constantemente abraçados pelas áreas de uso
-coletivo. Apenas a unidade composta pelas quadras 107, 108, 307 e 308 da
-asa Sul foi executada integralmente segundo esta concepção.
-
-A unidade de vizinhança tem como objetivo promover o convívio a partir
-das relações cotidianas, assim como em bairros de cidades tradicionais,
-oferecendo um sistema autossuficiente onde todos os serviços necessários
-para o dia a dia --- como escola e comércio --- estejam a uma caminhada
-de distância, resguardando o pedestre quanto ao sistema viário. As
-quadras são equivalentes em significado e funcionalidade, desde seu
-papel no desenho urbano quanto aos serviços específicos. A pretensão de
-acessibilidade pedestre estabelece, portanto, um parâmetro externo à
-vontade do urbanista: um limite prático tanto em termos de medidas
-absolutas --- na unidade concebida por Perry, é um círculo com 400
-metros de raio --- quanto da imposição de barreiras, como as pistas de
-alta velocidade.
+Desta feita, a experiência pedestre e local dentro da unidade de
+vizinhança escapa à possibilidade de confrontação de escalas, a não ser
+por uma operação mental de resgate da memória espacial vivenciada em
+outros setores da cidade --- memória, é certo, facilitada pela
+configuração pregnante da cidade [@holanda:2010brasilia, p. 90]. As
+"escalas" assumem sua condição de artefatos de uma compreensão
+intelectualizada de Brasília, em oposição à experiência geométrica do
+espaço imediatamente presente. Cabe indagar a seguir, portanto, quais
+sejam as relações de escala efetivamente experimentadas na superquadra.
 
 
 Demarcações espaciais na Superquadra de Brasília
 ================================================
 
-O acesso às quadras é possível através de um sistema de hierarquia
-viária. As vias, mais do que espaço de trânsito, são a materialização
-dos eixos que determinam o desenho urbano de Brasília. São eles o Eixo
-Monumental --- onde se encontra o centro cívico e representativo
-inerente a uma capital --- e o Eixo Rodoviário --- distribuidor das
-atividades cotidianas --- de onde partem as vias de acesso às quadras e
-comércio da cidade.
+A unidade de vizinhança de Brasília é composta por um sistema escalonado
+de quatro superquadras. À semelhança do conceito suburbanista de Perry e
+das cidades-jardim [@holanda:2011ponte, p. 40], Costa prevê que cada
+superquadra seja equipadas com jardim de infância, escola primária,
+banca de revistas na via de entrada e comércio local contíguo aos seus
+limites. Equipamentos de maior abrangência, como escola secundária,
+cinema, clube e igreja pertencem ao âmbito da unidade de vizinhança. Os
+blocos residenciais, livremente alocados nos limites do cinturão verde,
+constituem os únicos espaços de propriedade privada dentro da
+superquadra --- ainda assim, com térreo de livre circulação ---, sendo
+sempre abraçados pelas áreas de uso coletivo. A configuração aberta das
+"Asas" residenciais faz com que as unidades de vizinhança se
+interpenetrem, não havendo compartimentação estrita entre cada uma. No
+entanto, apenas a unidade composta pelas quadras 107, 108, 307 e 308 da
+asa Sul afigura-se completa, contendo todos os equipamentos urbanos
+previstos no *Relatório do P.P.B.*
+
+A unidade de vizinhança tem como objetivo promover o convívio a partir
+das relações cotidianas, assim como em bairros de cidades tradicionais,
+oferecendo um sistema autossuficiente onde todos os serviços necessários
+para o dia a dia --- como escola e comércio --- estejam a uma caminhada
+de distância, sem a travessia de vias de circulação pesada ou veloz.
+As quadras são equivalentes em significado e funcionalidade, desde seu
+papel no desenho urbano quanto aos serviços específicos. A pretensão de
+acessibilidade pedestre estabelece, portanto, um parâmetro externo à
+vontade do urbanista: um limite prático tanto em termos de medidas
+absolutas --- na unidade concebida por Perry, é um círculo com 400
+metros de raio, tendo dimensão semelhante a unidade de vizinhança de
+Brasília --- quanto da imposição de barreiras, como as pistas de alta
+velocidade.
+
+O acesso às quadras se faz através de um sistema de hierarquia viária
+decrescente, em árvore. Esta organização materializa o sentido de
+transição da monumentalidade, que se espalha da esplanada dos
+Ministérios pelas longas vistas desimpedidas do eixo Rodoviário, para o
+caráter residencial da unidade de vizinhança, marcado por vias locais de
+baixa velocidade. A conexão é percebida de modo privilegiado por meio do
+transporte motorizado, havendo pouco interesse em propiciar efeitos de
+proporcionalidade na escala do pedestre:
 
 > O "certo modo monumental" e a urbanidade que distingue as UVs
 > decorrem das conexões pelas quais as partes interagem estruturando o
-> projeto. Essas conexões comparecem tanto nas disposições funcionais --
-> a implantação e o dimensionamento, como nas de ordem estética -- as
-> relações de proporcionalidade da composição plástica.
+> projeto. Essas conexões comparecem tanto nas disposições funcionais
+> --- a implantação e o dimensionamento, como nas de ordem estética ---
+> as relações de proporcionalidade da composição plástica.
 > [@ferreira:2009invencao, p. 9]
 
-Tais conexões dão um caráter único às Unidades de Vizinhança,
-definindo-as como elemento estruturante e ordenador da cidade, não
-apenas no que diz respeito ao seu desenho, mas também às atividades que
-conectam e criam sua dinâmica. Esse aspecto é percebido a partir da
-constante inteiração entre as escalas estruturantes de Brasília. As
-disposições descritas por Gorovitz evidenciam sua coexistência,
-especialmente na Superquadra que, apesar te bem delimitada, busca se
-abrir através de serviços fronteiriços para o resto da cidade,
-expandindo sua área de influência para fora da Unidade de Vizinhança.
+Tais conexões dão um caráter homogêneo e basilar às unidades de
+vizinhança, definindo-as como elemento estruturante e ordenador da
+cidade, não apenas no que diz respeito ao seu desenho, mas também à
+articulação de atividades --- mesmo que algumas das funções educacionais
+e de lazer originalmente previstas em torno às superquadras hoje se
+desenvolvam predominantemente em outros setores de Brasília.
+Reciprocamente, o comércio local acabou por adquirir um caráter mais
+regional, expandindo a área de influência da unidade de vizinhança.
 
-As disposições funcionais citadas por Gorovitz são representadas pela
-**1.** implantação e **2.** dimensionamento das quadras em relação a
-seus habitantes.
+* * *
+
+Apesar do favorecimento a uma perspectiva motorizada na apreensão do
+significado simbólico de Brasília, Gorovitz [-@gorovitz:1985brasilia]
+debulha o espaço interno à unidade de vizinhança também de acordo com
+sua percepção estética local, na escala do pedestre. As disposições
+funcionais citadas por Gorovitz são representadas pela *implantação* e
+pelo *dimensionamento* das quadras em relação a seus habitantes.
 
 Implantação
 : Diz respeito aos acessos a equipamentos de uso coletivo
   que estão presentes na Unidade de Vizinhança. Com exceção do jardim de
-  infância e da escola primária, os demais serviços estão margeados às
+  infância e da escola primária, os demais serviços são lindeiros às
   vias articuladoras da cidade. Essa implantação permite que eles sejam
   acessados tanto por essas vias quanto pelas quadras, criando espaços
   mediadores entre os moradores e os demais habitantes da cidade. A
   alternância entre alguns outros equipamentos, como o comércio, permite
-  que eles pertençam a mais de uma unidade de vizinhança, interligando a
-  malha da cidade.
+  que eles pertençam a mais de uma unidade de vizinhança, costurando a
+  malha da cidade numa sequência contínua.
 
 Dimensionamento
-: A Superquadra, a exemplo de Unidades de Vizinhança precedentes, foi
-  dimensionada para até 4.000 habitantes. Esse conjunto fechado é
-  provido de um jardim de infância e uma escola primária que serve à
-  essa demanda demográfica. A união de 4 quadras permite a presença de
-  equipamentos maiores que exercem maior influência passam a ser
-  utilizados por moradores de outras quadras, integrando a melhor
-  cidade.
+: A superquadra de Brasília, a exemplo de unidades de vizinhança
+  precedentes, foi dimensionada para até 4.000 habitantes. Esse conjunto
+  semiautônomo é provido de um jardim de infância e uma escola primária.
+  A união de quatro quadras permite a presença de equipamentos maiores
+  que exercem maior influência passam a ser utilizados por moradores de
+  outras quadras, integrando a melhor cidade. O dimensionamento dos
+  blocos residenciais e dos equipamentos coletivos é, no entanto,
+  estritamente codificado no desenho urbano, dificultando acomodações
+  necessárias em resposta à transição etária da cidade.
 
-Sobre as disposições de ordem estética, Gorovitz as divide em oito
-fatores de estruturação plástica: **1.** partido, **2.** axialidade,
-3. eurritmia, 4. comodulação e proporção, 5. simetria,
-6. traçado regulador, 7. isonomia e ubiquidade e 8.
-modenatura.
-
-O **1.** partido se estabelece a partir da coesão entre as partes que
-são compreendidas como um todo. a 2. axialidade se caracteriza na
-disposição das quadras ao longo de um eixo residencial perpendicular ao
-eixo de caráter cívico, evidenciando a articulação entre o cotidiano e a
-civilidade. À relação de encadeamento das quadras, é dado o nome de
-3. eurritmia. Apesar de autônomas elas estão intimamente conectadas,
-permitindo o encontro e promovendo o convívio.
-
-A Superquadra é o módulo que ordena a trama urbana da cidade dando a ela
-**4.** comodulação e proporção. Essa característica é fundamental para
-compreender a organização do setor habitacional que é regida pelos
-seguintes parâmetros:
-
-**a.** Quatro quadras compõem a Unidade de Vizinhança
-
-**b.** Oito Unidades de Vizinhança enfileiradas definem o comprimento de
-uma asa onde as quadras ímpares estão a oeste do eixo rodoviário e as
-quadras pares a leste.
-
-**c.** A asa, conjunto de oito unidades de vizinhança (32 quadras), é
-rebatida ao longo do eixo monumental, dando origem às asas sul e norte.
-
-A **5.** simetria reforça as relações plásticas estabelecendo a
-equivalência entre as partes da cidade. O quadrado que configura os
-limites da Superquadra e o triângulo equilátero que define o **6.**
-traçado regulador do conjunto. A adoção das mesmas normas e soluções
-arquitetônicas semelhantes nas quadras permite que elas sejam
-vivenciadas simultaneamente. As Superquadras compartilham da mesma
-densidade, gabarito e contato com o verde. À essa característica é dado
-o nome de 7. e ubiquidade. Cada parte da composição é
-tratada de maneira particular. Essa **8.** modenatura promove a
-diversidade e unidade entre as escalas da cidade.
-
-
-Escalas do tecido urbano e da edificação na Superquadra
-=======================================================
+* * *
 
 Proporção e escala são conceitos indissociáveis da concepção de
 Brasília. Enquanto o primeiro dá a cada elemento autonomia diante de
@@ -441,11 +430,11 @@ monumental com o resto da cidade.
 
 **Escala Residencial**
 
-> "Brasilia compreende, estruturalmente, três partes devidamente
+> Brasilia compreende, estruturalmente, três partes devidamente
 > entrosadas: o eixo monumental, assim chamado porque reune os edifícios
 > destinados ao governo e a administração; o eixo rodoviário-residencial
 > que conduz ao centro da cidade e ao longo do qual estão dispostas as
-> quadras residenciais;"[^6]
+> quadras residenciais;[^6]
 
 [^6]: COSTA, Lúcio. **\"Monumentalidade e gente" em Sobre Arquitetura**,
     Porto Alegre, Publicação do Centro dos Estudantes Universitários de
@@ -471,6 +460,53 @@ espaciais e compositivas de cada Superquadra dizem respeito aos seus
 elementos particulares. Passamos a considerar não apenas os limites de
 cada área (cinturão verde), mas seus **espaços**, **vias**, **blocos de
 apartamentos**, e **pessoas**.
+
+
+Escalas do tecido urbano e da edificação na Superquadra
+=======================================================
+
+Disposições de ordem estética
+-----------------------------
+
+Sobre as disposições de ordem estética, Gorovitz as divide em oito
+fatores de estruturação plástica: **1.** partido, **2.** axialidade,
+3. eurritmia, 4. comodulação e proporção, 5. simetria,
+6. traçado regulador, 7. isonomia e ubiquidade e 8.
+modenatura.
+
+O **1.** partido se estabelece a partir da coesão entre as partes que
+são compreendidas como um todo. a 2. axialidade se caracteriza na
+disposição das quadras ao longo de um eixo residencial perpendicular ao
+eixo de caráter cívico, evidenciando a articulação entre o cotidiano e a
+civilidade. À relação de encadeamento das quadras, é dado o nome de
+3. eurritmia. Apesar de autônomas elas estão intimamente conectadas,
+permitindo o encontro e promovendo o convívio.
+
+A Superquadra é o módulo que ordena a trama urbana da cidade dando a ela
+**4.** comodulação e proporção. Essa característica é fundamental para
+compreender a organização do setor habitacional que é regida pelos
+seguintes parâmetros:
+
+**a.** Quatro quadras compõem a Unidade de Vizinhança
+
+**b.** Oito Unidades de Vizinhança enfileiradas definem o comprimento de
+uma asa onde as quadras ímpares estão a oeste do eixo rodoviário e as
+quadras pares a leste.
+
+**c.** A asa, conjunto de oito unidades de vizinhança (32 quadras), é
+rebatida ao longo do eixo monumental, dando origem às asas sul e norte.
+
+A **5.** simetria reforça as relações plásticas estabelecendo a
+equivalência entre as partes da cidade. O quadrado que configura os
+limites da Superquadra e o triângulo equilátero que define o **6.**
+traçado regulador do conjunto. A adoção das mesmas normas e soluções
+arquitetônicas semelhantes nas quadras permite que elas sejam
+vivenciadas simultaneamente. As Superquadras compartilham da mesma
+densidade, gabarito e contato com o verde. À essa característica é dado
+o nome de 7. e ubiquidade. Cada parte da composição é
+tratada de maneira particular. Essa **8.** modenatura promove a
+diversidade e unidade entre as escalas da cidade.
+
 
 Espaços
 -------
