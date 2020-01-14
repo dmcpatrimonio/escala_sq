@@ -2,23 +2,23 @@
 title      : 'A "escala residencial" na superquadra de Brasília'
 subtitle   : 'Paradigma ou mistificação?'
 author:
-- 'Gabriel Ernesto Moura Solórzano^1^'
-- 'Pedro Paulo Palazzo^2^'
+- 'Pedro Paulo Palazzo^1^'
+- 'Gabriel Ernesto Moura Solórzano^2^'
 affiliation:
-- '1^ Mestre em Arquitetura e Urbanismo pela Universidade de Brasília,
-  ernestgabriel@gmail.com'
-- '^2^ Professor da Faculdade de Arquitetura e Urbanismo da Universidade
+- '^1^ Professor da Faculdade de Arquitetura e Urbanismo da Universidade
   de Brasília, palazzo@unb.br'
+- '^2^ Mestre em Arquitetura e Urbanismo pela Universidade de Brasília,
+  ernestgabriel@gmail.com'
 date       : 'Recebido em __/__/2020. Aceito em __/__/__'
 abstract: |
   \# Resumo
 
-  **Palavras-chave:** Brasília (DF), Urbanismo modernista, Unidade de
+  Palavras-chave: Brasília (DF), Urbanismo modernista, Unidade de
   vizinhança, Morfologia urbana
 
   \# Abstract
   
-  **Keywords:** Brasilia (Brazil), Modernist urbanism, Neighborhood
+  Keywords: Brasilia (Brazil), Modernist urbanism, Neighborhood
   unit, Urban morphology
 keywords:
   Brasília (DF)
@@ -132,8 +132,8 @@ pesquisas sobre a "grande Brasília" metropolitana apontada por Paviani
 [-@paviani:2010ideologia; @saboia:2014brasilia] em análises de cunho
 geográfico assim como morfológico, vem revisitando desde então o tema da
 superquadra com sólidos estudos historiográficos [sem pretender a
-qualquer exaustividade: @leitao:2010infancia; @magalhaes:2009blocos;
-@machado:2007superquadra; e sobretudo, @ferreira:2009invencao].
+qualquer exaustividade: @leitao:2010infancia; @magalhaes:2009blocos,
+além dos demais trabalhos citados neste artigo].
 
 A diversidade de abordagens historiográficas desse objeto multifacetado
 levanta a questão da legitimidade de metodologias analíticas; o sistema
@@ -349,7 +349,7 @@ encontrará justamente na unidade de vizinhança. A superquadra, com seus
 edifícios habitacionais emoldurados pelo cinturão verde, é o local por
 excelência onde a "escala residencial" é perpassada pela "escala
 bucólica", dando pleno sentido como em praticamente nenhum outro ponto
-desse conjunto urbanístico.[^5] Observe-se, contudo, que em 1961 Costa
+desse conjunto urbanístico.[^4] Observe-se, contudo, que em 1961 Costa
 ainda não articulou o princípio de penetração da "escala bucólica" nas
 demais, ou, como se prefira dizer, o seu papel de transição entre
 escalas e elementos:
@@ -394,90 +394,91 @@ em dois tempos pelo mercado imobiliário [@ficher:2009analise] ---
 deriva, é claro, do conceito idealista de arte como criação livre de
 regras, resultando no "anticânone" modernista [@zevi:1973linguaggio].
 
-Num segundo momento, todavia, a presença da "escala bucólica" contígua à
-"escala residencial" cumpre um papel de mediação imediatamente
-apreendido na identidade quase completa entre o cinturão verde das
-superquadras e os percursos pedestres que as contornam, integrando as
-unidades de vizinhança entre si. Ao panorama rodoviário, com blocos
-quase inteiramente camuflados pelas copas das árvores sucede o panorama
-pedestre, com alamedas de campos visuais enquadrados, mas ainda
-visualmente permeáveis. A aproximação gradual, da perspectiva motorizada
-àquela peã, da passagem rápida à permanência, vai trazendo gradualmente
-para o primeiro plano os elementos particulares das relações de escala
-no interior da unidade de vizinhança.
-
-
-Superquadra como composição
-===========================
-
 Apesar do favorecimento a uma perspectiva motorizada na apreensão do
 significado simbólico de Brasília, Gorovitz [-@gorovitz:1985brasilia]
 debulha o espaço interno à unidade de vizinhança também de acordo com
 sua percepção estética local, na escala do pedestre. As disposições
-funcionais por ele citadas são representadas pela *implantação* e pelo
-*dimensionamento* das quadras em relação a seus habitantes.
+funcionais por ele citadas são representadas pela *implantação* dos
+blocos, comércios e equipamentos atinentes à unidade de vizinhança, e
+pelo *dimensionamento* das superquadras em relação a seus habitantes.
 
-Implantação
-: Diz respeito aos acessos a equipamentos de uso coletivo
-  que estão presentes na Unidade de Vizinhança. Com exceção do jardim de
-  infância e da escola primária, os demais serviços são lindeiros às
-  vias articuladoras da cidade. Essa implantação permite que eles sejam
-  acessados tanto por essas vias quanto pelas quadras, criando espaços
-  mediadores entre os moradores e os demais habitantes da cidade. A
-  alternância entre alguns outros equipamentos, como o comércio, permite
-  que eles pertençam a mais de uma unidade de vizinhança, costurando a
-  malha da cidade numa sequência contínua.
+Machado, entretanto, observa que as disposições pretensamente
+"funcionais" se originam de experimentos gráficos realizados no
+Departamento de Urbanismo da Companhia Urbanizadora da Nova Capital
+(Novacap). À exceção dos equipamentos com vocação regional, implantados
+nas *entrequadras* que margeiam cada unidade de vizinhança, não é
+possível restituir qualquer processo decisório "funcional" na
+configuração das implantações e dimensionamentos dos seus blocos e
+equipamentos [@machado:2007superquadra].
 
-Dimensionamento
-: A superquadra de Brasília, a exemplo de unidades de vizinhança
-  precedentes, foi dimensionada para até 4.000 habitantes. Esse conjunto
-  semiautônomo é provido de um jardim de infância e uma escola primária.
-  A união de quatro quadras permite a presença de equipamentos maiores
-  que exercem maior influência passam a ser utilizados por moradores de
-  outras quadras, integrando a melhor cidade. O dimensionamento dos
-  blocos residenciais e dos equipamentos coletivos é, no entanto,
-  estritamente codificado no funcionalismo do desenho urbano,
-  dificultando as necessárias acomodações em função da transição etária
-  dos moradores.
 
-Sobre as disposições de ordem estética, Gorovitz as divide em oito
-fatores de estruturação plástica: **1.** partido, **2.** axialidade,
-3. eurritmia, 4. comodulação e proporção, 5. simetria,
-6. traçado regulador, 7. isonomia e ubiquidade e 8.
+Superquadra como elemento de composição
+=======================================
+
+Tal constatação não exclui, é verdade, uma leitura não "funcionalista"
+da implantação e do dimensionamento da superquadra, até porque a
+superquadra se encontra, segundo Holanda [-@holanda:2018espaco, p. 327],
+"entre as versões mais 'suaves' do genótipo moderno" em termos de
+configuração espacial e distribuição de usos. É esta leitura não
+funcionalista que propõe ainda Gorovitz, ao estabelecer oito
+"disposições de ordem estética" com nítida inspiração humanista ---
+poderíamos chamá-las, com mais propriedade, de *instrumentos de
+composição.* São estas: partido; axialidade; eurritmia; comodulação e
+proporção; simetria; traçado regulador; isonomia e ubiquidade; e
 modenatura.
 
-O **1.** partido se estabelece a partir da coesão entre as partes que
-são compreendidas como um todo. a 2. axialidade se caracteriza na
-disposição das quadras ao longo de um eixo residencial perpendicular ao
-eixo de caráter cívico, evidenciando a articulação entre o cotidiano e a
-civilidade. À relação de encadeamento das quadras, é dado o nome de
-3. eurritmia. Apesar de autônomas elas estão intimamente conectadas,
-permitindo o encontro e promovendo o convívio.
+Dessas oito "disposições", algumas pertencem à esfera da reflexão
+conceitual sobre os valores abstratos do P.P.B.: é o caso do *partido*,
+entendido como princípio de coesão entre as partes que são compreendidas
+como um todo; corolário desta coesão é a homogeneidade --- um tanto
+ilusória --- de gabarito, densidade e arborização: este é o princípio de
+*isonomia e ubiquidade.* Quanto aos seis outros instrumentos de
+composição, eles têm em comum o fato de serem aplicáveis tanto às
+articulações entre superquadras contíguas quanto à estruturação do
+desenho urbano como um todo. A obra de Gorovitz dedica-se exaustivamente
+a esta segunda categoria, pelo que serão agregadas a seguir breves
+observações sobre as articulações locais.
 
-A Superquadra é o módulo que ordena a trama urbana da cidade dando a ela
-**4.** comodulação e proporção. Essa característica é fundamental para
+A *axialidade,* caracterizada em termos estruturantes pela disposição
+das quadras em renques paralelos ao eixo Rodoviário, oferece na escala
+local um arrimo à *eurritmia:* relação de encadeamento das quadras.
+
+A presença da "escala bucólica" contígua à "escala residencial" cumpre
+aqui um papel de mediação imediatamente apreendido na identidade quase
+completa entre o cinturão verde das superquadras e os percursos
+pedestres que as contornam, integrando as unidades de vizinhança entre
+si. Ao panorama rodoviário, com blocos quase inteiramente camuflados
+pelas copas das árvores sucede o panorama pedestre, com alamedas de
+campos visuais enquadrados, mas ainda visualmente permeáveis. A
+aproximação gradual, da perspectiva motorizada àquela peã, da passagem
+rápida à permanência, vai trazendo gradualmente para o primeiro plano os
+elementos particulares das relações de escala no interior da unidade de
+vizinhança.
+
+
+A superquadra é o módulo que ordena a trama urbana da cidade, mediante
+*comodulação e proporção.* Essa característica é fundamental para
 compreender a organização do setor habitacional que é regida pelos
 seguintes parâmetros:
 
-**a.** Quatro quadras compõem a Unidade de Vizinhança
+a. Quatro quadras compõem a Unidade de Vizinhança
 
-**b.** Oito Unidades de Vizinhança enfileiradas definem o comprimento de
+b. Oito Unidades de Vizinhança enfileiradas definem o comprimento de
 uma asa onde as quadras ímpares estão a oeste do eixo rodoviário e as
 quadras pares a leste.
 
-**c.** A asa, conjunto de oito unidades de vizinhança (32 quadras), é
+c. A asa, conjunto de oito unidades de vizinhança (32 quadras), é
 rebatida ao longo do eixo monumental, dando origem às asas sul e norte.
 
-A **5.** simetria reforça as relações plásticas estabelecendo a
-equivalência entre as partes da cidade. O quadrado que configura os
-limites da Superquadra e o triângulo equilátero que define o **6.**
-traçado regulador do conjunto. A adoção das mesmas normas e soluções
-arquitetônicas semelhantes nas quadras permite que elas sejam
-vivenciadas simultaneamente. As Superquadras compartilham da mesma
-densidade, gabarito e contato com o verde. À essa característica é dado
-o nome de 7. e ubiquidade. Cada parte da composição é
-tratada de maneira particular. Essa **8.** modenatura promove a
-diversidade e unidade entre as escalas da cidade.
+A *simetria* reforça as relações plásticas estabelecendo a equivalência
+entre as partes da cidade. O quadrado que configura os limites da
+Superquadra e o triângulo equilátero que define o *traçado regulador* do
+conjunto. A adoção das mesmas normas e soluções arquitetônicas
+semelhantes nas quadras permite que elas sejam vivenciadas
+simultaneamente.
+
+Cada parte da composição é tratada de maneira particular. Essa
+*modenatura* promove a diversidade e unidade entre as escalas da cidade.
 
 * * *
 
@@ -493,41 +494,12 @@ automóveis. Ao compararmos a Superquadra com um espaço urbano
 tradicional, identificamos equivalências dos intervalos entre os
 edifícios com praças e ruas.
 
-As atividades que ocorrem dentro das quadras se manifestam em esferas
-públicas e privadas. A forma como o espaço público se organiza é uma
-forte influência no modo de como planejamos o interior de nossas casas.
-O universo particular dos moradores, os espaços internos de seus
-apartamentos, são influenciados pelas relações que as pessoas tem no
-espaço público. O oposto também acontece, quando a esfera privada
-extrapola os limites das projeções de seus edifícios. Há, entretanto, um
-ritual social que resulta no perfeito equilíbrio entre uma ação
-individual e coletiva. Isso ocorre principalmente em atividades a céu
-aberto, por exemplo, quando atividades pessoais são manifestadas em
-espaço público.
-
-São essas atividades que dão função a um espaço dentro de uma
-Superquadra, distinguindo um espaço vazio de uma praça. Para (KRIER), a
-**praça** tradicional é um espaço altamente controlado determinado por
-edificações ao redor de um espaço aberto. Há um alto controle de quem a
-acessa minimizando a superfície externa de contato com outras ruas e
-espaços abertos. Essa espécie de quintal se torna frequentemente um
-espaço de valor simbólico. Com o passar do tempo a praça adequou-se ao
-uso residencial, caracterizando-se como um átrio que, infelizmente, ---
-assim como as praças públicas --- perderam seu significado e importância
-simbólica. O espaço tornou-se banal. É possível interpretar a
-Superquadra como uma configuração de casa quarteirão, onde os edifícios
-não estão mais faceados às ruas, mas dispostos livremente dentro do
-limite da quadra. Os espaços que antes eram de uso exclusivo da
-vizinhança tornam-se públicos, porém seu caráter local permanece.
-
-
-**Rua -** Em cidades ditas tradicionais a rua é o espaço vazio
-resultante da consolidação de edificações, emoldurando paisagens e
-permitindo acesso a lugares específicos. Tem um caráter mais funcional
-do que a praça que, por suas características, é mais atrativa para
-passar o tempo do que a rua. As cidades proporcionam uma diversidade de
-espaços resultantes de uma organização complexa de seu desenho e de suas
-ruas.
+Em cidades ditas tradicionais a rua é o espaço vazio resultante da
+consolidação de edificações, emoldurando paisagens e permitindo acesso a
+lugares específicos. Tem um caráter mais funcional do que a praça que,
+por suas características, é mais atrativa para passar o tempo do que a
+rua. As cidades proporcionam uma diversidade de espaços resultantes de
+uma organização complexa de seu desenho e de suas ruas.
 
 Em áreas residenciais a rua representa um espaço de circulação e
 recreação, entretanto a separação entre veículos e pedestres pode causar
@@ -543,6 +515,34 @@ Essa restrição à circulação dos automóveis permite que haja mais espaço
 livre para o convívio e demais atividades. A flexibilidade desses
 espaços permite sua ocupação de forma livre a gosto dos usuários,
 podendo abrigar brincadeiras de crianças ou um piquenique.
+
+As atividades que ocorrem dentro das quadras se manifestam em esferas
+públicas e privadas. A forma como o espaço público se organiza é uma
+forte influência no modo de como planejamos o interior de nossas casas.
+O universo particular dos moradores, os espaços internos de seus
+apartamentos, são influenciados pelas relações que as pessoas tem no
+espaço público. O oposto também acontece, quando a esfera privada
+extrapola os limites das projeções de seus edifícios. Há, entretanto, um
+ritual social que resulta no perfeito equilíbrio entre uma ação
+individual e coletiva. Isso ocorre principalmente em atividades a céu
+aberto, por exemplo, quando atividades pessoais são manifestadas em
+espaço público.
+
+São essas atividades que dão função a um espaço dentro de uma
+superquadra, distinguindo um espaço vazio de uma praça. Para Krier
+[-@krier:1988architectural], a praça tradicional é um espaço altamente
+controlado determinado por edificações ao redor de um espaço aberto. Há
+um alto controle de quem a acessa minimizando a superfície externa de
+contato com outras ruas e espaços abertos. Essa espécie de quintal se
+torna frequentemente um espaço de valor simbólico. Com o passar do tempo
+a praça adequou-se ao uso residencial, caracterizando-se como um átrio
+que, infelizmente, --- assim como as praças públicas --- perderam seu
+significado e importância simbólica. O espaço tornou-se banal. É
+possível interpretar a Superquadra como uma configuração de casa
+quarteirão, onde os edifícios não estão mais faceados às ruas, mas
+dispostos livremente dentro do limite da quadra. Os espaços que antes
+eram de uso exclusivo da vizinhança tornam-se públicos, porém seu
+caráter local permanece.
 
 
 Em torno à edificação
@@ -577,9 +577,9 @@ relações foram estudadas por Herman Hertzberger e elaboradas a partir da
 comparação entre espaços que estão em uma esfera particular e pública. O
 edifício, materialização do espaço privado dentro da Superquadra, é o
 elemento central sobre o qual orbitam os conceitos apresentados por
-Herzberger.
+Hertzberger.
 
-**Demarcações territoriais** - São a partir desses limites --- nem
+Demarcações territoriais - São a partir desses limites --- nem
 sempre claros --- que se baseiam as relações entre o usuário e o espaço.
 Essa relativização do seu caráter depende de parâmetros como o grau de
 acesso ou forma de supervisão daqueles que o utilizam e de quem se
@@ -610,7 +610,7 @@ além da fronteira por eles estabelecida. Surgem assim vácuos dentro da
 quadra e lugares nos quais ninguém se identifica, tornando-se território
 de ninguém.
 
-**Diferenciação territorial** - Quando um acesso determina o quão
+Diferenciação territorial - Quando um acesso determina o quão
 público um espaço pode ser. No contexto de Superquadra essa
 diferenciação é visível especialmente no âmbito do automóvel, quando seu
 acesso único é restrito a uma única via. Para o pedestre essa
@@ -620,14 +620,14 @@ quadra podem ser entendidos como barreiras ou portas de entrada para um
 espaço onde a percepção do que é público já não é mais a mesma, enquanto
 espaços amplos aumentam a sensação de um lugar público.
 
-**Zoneamento territorial** - "O caráter de cada área dependerá em grande
+Zoneamento territorial - "O caráter de cada área dependerá em grande
 parte de quem determina o guarnecimento e o ordenamento do espaço, de
 quem está encarregado, de quem zela e de que é ou se sente responsável
 por ele."[^8]
 
-[^8]: HERTZBERGER, Herman. **Lições de Arquitetura/ Herman
-    Hertzberger**; \[tradução Carlos Eduardo Lima Machado\]. 2ª ed. São
-    Paulo: Martins Fontes, 1999, p.22
+[^8]: HERTZBERGER, Herman. Lições de Arquitetura/ Herman
+    Hertzberger; \[tradução Carlos Eduardo Lima Machado\]. 2ª ed. São
+    Paulo: Martins Fontes, 1999, p. 22
 
 O arquiteto apresenta um espaço que oferece possibilidades de ocupação
 por parte dos usuários. Não cabe a ele resolver tudo, mas permitir que
@@ -637,7 +637,7 @@ morador imprime uma marca que o caracteriza e muda o local. Assim como
 os espaços vazios dentro das quadras que são ocupados com hortas, mesas
 de xadrez ou toalhas de piquenique.
 
-**Intervalo** - É o espaço de transição entre o público e o privado, o
+Intervalo - É o espaço de transição entre o público e o privado, o
 encontro entre a rua e o particular. É a condição espacial para o
 encontro e o diálogo entre áreas de ordens diferentes, o espaço de boas
 vindas e despedias. São espaços de acomodação entre dois mundos. Na
@@ -648,7 +648,7 @@ medida que nos aproximamos das residências, como também no universo da
 Superquadra, onde o pilotis, as guaritas e as áreas comuns dos
 pavimentos são nos preparam para essa mudança.
 
-**Demarcações privadas no espaço público** - A partir do conceito de
+Demarcações privadas no espaço público - A partir do conceito de
 intervalo entende-se que não há uma divisão rígida entre o público e o
 privado, permitindo, assim, que espaços públicos possam sofrer
 interferências. Essa relação pode ser positiva enquanto o caráter da
@@ -659,7 +659,7 @@ dessas demarcações. Hortas, jardins comunitários e espaços de
 convivências são muitas vezes ofuscados por demarcações de canteiros que
 impedem o acesso de pedestres ao pilotis.
 
-**Obra pública** - É necessário fornecer espaços públicos com os quais a
+Obra pública - É necessário fornecer espaços públicos com os quais a
 comunidade possa se sentir responsável, promovendo uma identificação e
 contribuição por parte dos usuários. Existe, porém um paradoxo com o
 conceito de bem-estar coletivo, onde um sistema é imposto à sociedade.
@@ -680,7 +680,7 @@ Conclusão
 
 Em Brasília a Superquadra é o local onde as pessoas exercem sua
 influência sobre o espaço a partir do sentimento de pertencimento e zelo
-dos moradores. Existem algumas excessões como quadras funcionais que,
+dos moradores. Existem algumas exceções como quadras funcionais que,
 por seu caráter transitório, não provocam em seus moradores a vontade de
 se apropriar do espaço. Esse limite bem determinado gera potenciais
 problemas, como os espaços de interseção acabam se tornando lugares sem
@@ -688,7 +688,7 @@ dono, com os quais ninguém se sente responsável. Os fundos do comércio
 da asa sul são um exemplo de espaço que não pertence à quadra, mas
 também são renegados pelo próprio comércio.
 
-**De usuário a morador** - A diferenciação entre o público e o privado
+De usuário a morador - A diferenciação entre o público e o privado
 indica os locais mais propícios para que os usuários/ habitantes podem
 dar suas contribuições ao espaço. É a partir dessa contribuição os
 usuários tornam-se moradores. Em uma Superquadra a disposição dos
@@ -703,7 +703,7 @@ colaboração.
 Esses exemplos mostram que em uma Superquadra --- por se tratar de um
 espaço que permite constantes transições --- os termos público e privado
 nem sempre são os mais adequados. É mais pertinente dizer que os espaços
-livres de uma quadra, assim como o pilotis, são semiprivados ou
+livres de uma quadra, assim como o pilotis, são semi-privados ou
 semipúblicos. Nessa lógica é legítimo o uso do espaço público pelos
 moradores para seus próprios interesses e apenas indiretamente ao
 interesse dos outros. O caráter público do espaço é constantemente
@@ -769,7 +769,7 @@ espacial desenvolvidas em Brasília, por Valério Medeiros
 [-@medeiros:2013urbis], passa ao largo das questões específicas do
 urbanismo modernista.
 
-[^5]: Com a possível exceção da vista que se tem, desde o guarda-corpo
+[^4]: Com a possível exceção da vista que se tem, desde o guarda-corpo
 da plataforma sobre a estação rodoviária, abarcando a esplanada dos
 Ministérios --- "escala monumental" --- emoldurada pelo *vazio* verde da
 "escala bucólica". Ver @cruz:2016arquitetura.
