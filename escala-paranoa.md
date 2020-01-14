@@ -151,8 +151,8 @@ refinamento de instrumentos de análise local, como a topoceptividade
 [@kohlsdorf:1996apreensao], em detrimento do estudo global da malha.[^3]
 
 
-O discurso abstrato do modernismo e a "escala" residencial de Brasília
-======================================================================
+A "escala residencial" de Brasília: fragilidades de uma abstração
+=================================================================
 
 Tomando-se a concepção da cidade moderna por irredutível à da cidade
 tradicional, ganha precedência a sinalização conceitual da passagem do
@@ -208,7 +208,30 @@ sistema das quatro escalas. Finalmente, no artigo "Brasília revisitada"
 de Brasília se traduz em quatro escalas: a monumental, a residencial, a
 gregária e a bucólica."
 
-* * *
+Para se ter uma melhor noção do sentido peculiar conferido por Lucio
+Costa ao termo "escala", veja-se o que Philippe Boudon tem a dizer sobre
+proporção e escala:
+
+> [...] A escala pressupõe a medida de um edifício, ou de uma parte
+> deste, com relação a um elemento exterior a ele [...] não se trata,
+> neste caso, de um pensamento racional fundado sobre uma razão
+> puramente numérica, cuja origem é o ratio ou relação matemática [...]
+> não se trata, igualmente de uma medida do espaço verdadeiro, medida de
+> proporções ou de partes de um edifício, relacionadas umas às outras.
+> Trata-se de um pensamento do espaço arquitetural que o mede em relação
+> a ele mesmo, mas que pressupõe uma definição do espaço arquitetural
+> compreendendo, ao mesmo tempo, o espaço verdadeiro do edifício e o
+> espaço mental do pensamento do arquiteto.
+> [@boudon:1971lespace, p. 58--59]
+
+Boudon descreve escala como uma relação entre dois elementos --- nesse
+caso o edifício e algum parâmetro exterior a ele --- podendo ser esse
+pessoa, cidade ou quarteirão. A partir da definição do parâmetro de
+comparação é possível avaliar uma eventual adequação ou rompimento com a
+escala adotada. As "escalas" de Brasília, nessa leitura, se afastam de
+qualquer relação entre objetos próximos, visualmente comparáveis,
+forçando os limites conceituais do "espaço mental do pensamento
+do arquiteto" rumo à abstração.
 
 A relação entre o conceito convencional de escala e as "escalas" de
 Brasília é ambígua. Italo Campofiorito, ao transformar as palavras de
@@ -221,8 +244,8 @@ Gorovitz, no seu livro de 1985 --- anterior, portanto, à afirmação
 categórica das escalas no "Brasília revisitada" --- adota a ambiguidade
 característica do discurso arquitetônico modernista. Sua tentativa de
 reconciliar a conceituação de "escala" sugerida por Costa com o sentido
-comum da palavra passa pelo problema de como determinar o caráter dos
-diferentes setores da cidade:
+da mesma palavra segundo Boudon passa pelo problema de como determinar o
+caráter dos diferentes setores da cidade:
 
 > Em Brasília, o tratamento diferenciado das partes pressupõe valores
 > externos mediados pelo conceito de escala e introduzidos por vontade
@@ -258,8 +281,8 @@ espaço imediatamente presente. Cabe indagar a seguir, portanto, quais
 sejam as relações de escala efetivamente experimentadas na superquadra.
 
 
-Demarcações espaciais na Superquadra de Brasília
-================================================
+Escala como articulação espacial na unidade de vizinhança
+=========================================================
 
 A unidade de vizinhança de Brasília é composta por um sistema escalonado
 de quatro superquadras. À semelhança do conceito suburbanista de Perry e
@@ -308,7 +331,7 @@ proporcionalidade na escala do pedestre:
 > as relações de proporcionalidade da composição plástica.
 > [@ferreira:2009invencao, p. 9]
 
-Tais conexões dão um caráter homogêneo e basilar às unidades de
+Tais conexões conferem um caráter homogêneo e basilar às unidades de
 vizinhança, definindo-as como elemento estruturante e ordenador da
 cidade, não apenas no que diz respeito ao seu desenho, mas também à
 articulação de atividades --- mesmo que algumas das funções educacionais
@@ -319,12 +342,80 @@ regional, expandindo a área de influência da unidade de vizinhança.
 
 * * *
 
+Se há, nessas articulações, um ponto de contato do entendimento das
+relações geométricas de escala entre elementos justapostos com as
+"escalas" enquanto categorias de leitura do P.P.B., este ponto se
+encontrará justamente na unidade de vizinhança. A superquadra, com seus
+edifícios habitacionais emoldurados pelo cinturão verde, é o local por
+excelência onde a "escala residencial" é perpassada pela "escala
+bucólica", dando pleno sentido como em praticamente nenhum outro ponto
+desse conjunto urbanístico.[^5] Observe-se, contudo, que em 1961 Costa
+ainda não articulou o princípio de penetração da "escala bucólica" nas
+demais, ou, como se prefira dizer, o seu papel de transição entre
+escalas e elementos:
+
+> É o jogo de três escalas que vai caracterizar e dar sentido a
+> Brasília ... a escala residencial ou quotidiana ... a dita escala
+> monumental, em que o homem adquire dimensão coletiva; a expressão
+> urbanística desse novo conceito de nobreza ... Finalmente a escala
+> gregária, onde as dimensões e o espaço são deliberadamente reduzidos e
+> concentrados a fim de criar clima propício ao agrupamento ...
+> Poderemos ainda acrescentar mais uma quarta escala, a escala bucólica
+> das áreas abertas destinadas a fins-de-semana lacustres ou
+> campestres. [Lucio Costa em entrevista ao *Jornal do Brasil,* 8 de
+> novembro de 1961, *apud* @baratto:2019escalas]
+
+No contexto da superquadra, as relações de escala geométrica entre
+edifícios, cinturão verde e os vãos do sistema viário têm papel
+preponderante na afirmação do caráter cotidiano e acolhedor do local,
+onde se deixa para trás os grandes espaços dominados pelo automóvel e
+este se encontra, nos dizeres do *Relatório do P.P.B.,* "domesticado"
+como "membro da família" (antropomorfização visionária, que prenuncia o
+estilo de vida *sobre rodas* da burguesia brasiliense!).
+
+O cinturão verde serve, em primeira instância, para mascarar os
+edifícios --- Costa já antevê, desde 1957, o frustrante percurso do
+"modernismo periférico" [@kohlsdorf:2009brasilia] na produção
+arquitetônica corriqueira, bem como a futilidade de se esperar o devido
+controle administrativo sobre a estética das construções de Brasília
+[@perpetuo:2018origens10]. Mais ainda, percebem-se aí os ecos do debate
+em torno do Grande Hotel de Ouro Preto quase duas décadas antes
+[@comas:2010passado]: entre uma obra de arte, sempre bem-vinda em
+qualquer contexto, sem embargo de sua escala ou estilo, e um estorvo
+edilício, não há meio-termo possível; não se concebe um "segundo plano"
+edificado neutro, mediano, despretensioso, que não precise ser ocultado.
+
+O niilismo desse dilema escancara as limitações práticas do discurso que
+relativiza a apreensão visual das escalas geométricas em favor de
+exercícios intelectuais abstratos. A recusa em se explicitar parâmetros
+compositivos incidentes sobre os blocos da superquadra, para além do
+meramente cartorial --- seis pavimentos sobre pilotis, normas burladas
+em dois tempos pelo mercado imobiliário [@ficher:2009analise] ---
+deriva, é claro, do conceito idealista de arte como criação livre de
+regras, resultando no "anticânone" modernista [@zevi:1973linguaggio].
+
+Num segundo momento, todavia, a presença da "escala bucólica" contígua à
+"escala residencial" cumpre um papel de mediação imediatamente
+apreendido na identidade quase completa entre o cinturão verde das
+superquadras e os percursos pedestres que as contornam, integrando as
+unidades de vizinhança entre si. Ao panorama rodoviário, com blocos
+quase inteiramente camuflados pelas copas das árvores sucede o panorama
+pedestre, com alamedas de campos visuais enquadrados, mas ainda
+visualmente permeáveis. A aproximação gradual, da perspectiva motorizada
+àquela peã, da passagem rápida à permanência, vai trazendo gradualmente
+para o primeiro plano os elementos particulares das relações de escala
+no interior da unidade de vizinhança.
+
+
+Superquadra como composição
+===========================
+
 Apesar do favorecimento a uma perspectiva motorizada na apreensão do
 significado simbólico de Brasília, Gorovitz [-@gorovitz:1985brasilia]
 debulha o espaço interno à unidade de vizinhança também de acordo com
 sua percepção estética local, na escala do pedestre. As disposições
-funcionais citadas por Gorovitz são representadas pela *implantação* e
-pelo *dimensionamento* das quadras em relação a seus habitantes.
+funcionais por ele citadas são representadas pela *implantação* e pelo
+*dimensionamento* das quadras em relação a seus habitantes.
 
 Implantação
 : Diz respeito aos acessos a equipamentos de uso coletivo
@@ -345,128 +436,9 @@ Dimensionamento
   que exercem maior influência passam a ser utilizados por moradores de
   outras quadras, integrando a melhor cidade. O dimensionamento dos
   blocos residenciais e dos equipamentos coletivos é, no entanto,
-  estritamente codificado no desenho urbano, dificultando acomodações
-  necessárias em resposta à transição etária da cidade.
-
-* * *
-
-Proporção e escala são conceitos indissociáveis da concepção de
-Brasília. Enquanto o primeiro dá a cada elemento autonomia diante de
-suas individualidades, o segundo torna-se o argumento central das
-relações entre as diferentes partes da cidade e das pessoas,. Philipe
-Boudon a define esses conceitos da seguinte maneira:
-
-> (...) A escala pressupõe a medida de um edifício, ou de uma parte
-> deste, com relação a um elemento exterior a ele (...) não se trata,
-> neste caso, de um pensamento racional fundado sobre uma razão
-> puramente numérica, cuja origem é o ratio ou relação matemática (...)
-> não se trata, igualmente de uma medida do espaço verdadeiro, medida de
-> proporções ou de partes de um edifício, relacionadas umas às outras.
-> Trata-se de um pensamento do espaço arquitetural que o mede em relação
-> a ele mesmo, mas que pressupõe uma definição do espaço arquitetural
-> compreendendo, ao mesmo tempo, o espaço verdadeiro do edifício e o
-> espaço mental do pensamento do arquiteto.[^3]
-
-[^3]: BOUDON, Philipe. **Sur l'espace architectural**, Paris, Dunod,
-    p.58-59
-
-Boudon descreve escala como uma relação entre dois elementos --- nesse
-caso o edifício e algum parâmetro exterior a ele --- podendo ser esse
-pessoa, cidade ou quarteirão. A partir da definição do parâmetro de
-comparação é possível avaliar uma eventual adequação ou rompimento com a
-escala adotada. Proporção e escala são, no caso de Brasília, dimensões
-complementares. Resumidamente, escala diz respeito à relação do objeto
-observado com um elemento externo a ele, enquanto a proporção estabelece
-uma relação entre as partes desse objeto e com a sua totalidade.
-
-> No caso da proporção, a medida se efetua por transferencia de um
-> elemento do espaço a um outro elemento do mesmo espaço,
-> considerando-se o conjunto como um sistema fechado (...)[^4]
-
-[^4]: BOUDON, Philipe. **Sur l'espace architectural**, Paris, Dunod,
-    p.58-59
-
-Lúcio Costa se baseia nesses dois conceitos durante a concepção de
-Brasília. Segundo o arquiteto, a cidade foi concebida para o homem em
-função de três diferentes escalas, considerando sua complexidade e
-relatividade. A quarta escala, Bucólica, permeia por entre as outras e
-proporciona amenidades ao contexto urbano da cidade.
-
-> "É o jogo de três escalas que vai caracterizar e dar sentido a
-> Brasília\... a escala residencial ou quotidiana\... a dita escala
-> monumental, em que o homem adquire dimensão coletiva; a expressão
-> urbanística desse novo conceito de nobreza\... Finalmente a escala
-> gregária, onde as dimensões e o espaço são deliberadamente reduzidos e
-> concentrados a fim de criar clima propício ao agrupamento\...
-> Poderemos ainda acrescentar mais uma quarta escala, a escala bucólica
-> das áreas abertas destinadas a fins-de-semana lacustres ou
-> campestres".[^5]
-
-[^5]: Lúcio Costa em entrevista ao Jornal do Brasil, 8 de novembro de
-    1961
-
-**Escala Monumental -** É na escala monumental que o homem adquire
-dimensão coletiva e simbólica, dando a Brasília o caráter inerente à
-capital do Brasil. Esse sentimento de coletividade não se opõe à
-individualidade do cidadão, mas a complementa. A dimensão está
-fortemente caracterizada pelo eixo monumental, desde a rodoferroviária
-até a praça dos três poderes.
-
-**Escala Gregária -** A escala gregária está localizada na plataforma
-superior da rodoviária sobre o cruzamento dos dois eixos estruturantes
-da cidade --- o monumental e o rodoviário --- representada pelos dois
-centros comerciais ali implantados. Há, nessa região, uma redução das
-dimensões, propiciando o convívio e a aglomeração de pessoas tanto ao
-longo da rua, com lojas voltadas ao exterior dos edifícios, quanto ao
-seu interior. Sua densidade é um contraponto aos espaços livres das
-Superquadras.
-
-**Escala Bucólica -** É a relação do urbano com as atividades de lazer.
-Seu principal expoente é o Lago Paranoá, concebido com a orla desocupada
-para preservar áreas verdes que pudessem ser desfrutadas pela população
-urbana. Essa dimensão é também fundamental na s zonas de transição entre
-as escalas, principalmente no que diz respeito à relação da escala
-monumental com o resto da cidade.
-
-**Escala Residencial**
-
-> Brasilia compreende, estruturalmente, três partes devidamente
-> entrosadas: o eixo monumental, assim chamado porque reune os edifícios
-> destinados ao governo e a administração; o eixo rodoviário-residencial
-> que conduz ao centro da cidade e ao longo do qual estão dispostas as
-> quadras residenciais;[^6]
-
-[^6]: COSTA, Lúcio. **\"Monumentalidade e gente" em Sobre Arquitetura**,
-    Porto Alegre, Publicação do Centro dos Estudantes Universitários de
-    Arquitetura, 1962, p.306
-
-No contexto da Superquadra as relações de escala estão presentes,
-primeiramente, na definição da Escala Residencial, onde a relação entre
-a quadra e o desenho da cidade dão a esse espaço um caráter cotidiano e
-local aos seus moradores. As quadras, apesar de autônomas, estão
-conectadas umas às outras, permitindo o encontro e o convívio entre os
-moradores. Em um segundo momento essa dimensão residencial é confrontada
-com a Escala Monumental. Nesse momento, a Escala Bucólica é fundamental
-como amortecedora dos encontros entre as diferentes grandezas da cidade,
-conectando e proporcionando transições suaves. O cinturão verde que
-contorna a quadra tem como objetivo articular a escala residencial com a
-monumental, garantindo, a disposição da estrutura urbana. Essa proteção
-natural resguarda a quadra e define sua dimensão dentro do desenho da
-cidade.
-
-A quadra passa a se relacionar predominantemente com outros elementos a
-medida que nos aproximarmos da Unidade de Vizinhança. As referências
-espaciais e compositivas de cada Superquadra dizem respeito aos seus
-elementos particulares. Passamos a considerar não apenas os limites de
-cada área (cinturão verde), mas seus **espaços**, **vias**, **blocos de
-apartamentos**, e **pessoas**.
-
-
-Escalas do tecido urbano e da edificação na Superquadra
-=======================================================
-
-Disposições de ordem estética
------------------------------
+  estritamente codificado no funcionalismo do desenho urbano,
+  dificultando as necessárias acomodações em função da transição etária
+  dos moradores.
 
 Sobre as disposições de ordem estética, Gorovitz as divide em oito
 fatores de estruturação plástica: **1.** partido, **2.** axialidade,
@@ -507,9 +479,7 @@ o nome de 7. e ubiquidade. Cada parte da composição é
 tratada de maneira particular. Essa **8.** modenatura promove a
 diversidade e unidade entre as escalas da cidade.
 
-
-Espaços
--------
+* * *
 
 A Superquadra é o resultado de um urbanismo moderno onde os edifícios
 são elementos isolados dentro do desenho urbano. As praças e ruas deixam
@@ -550,8 +520,6 @@ não estão mais faceados às ruas, mas dispostos livremente dentro do
 limite da quadra. Os espaços que antes eram de uso exclusivo da
 vizinhança tornam-se públicos, porém seu caráter local permanece.
 
-Vias
-----
 
 **Rua -** Em cidades ditas tradicionais a rua é o espaço vazio
 resultante da consolidação de edificações, emoldurando paisagens e
@@ -577,8 +545,8 @@ espaços permite sua ocupação de forma livre a gosto dos usuários,
 podendo abrigar brincadeiras de crianças ou um piquenique.
 
 
-Bloco
------
+Em torno à edificação
+=====================
 
 Esse bloco se relaciona com o usuário de diferentes formas: delimitação
 espacial, como plano de fundo para quem circula no espaço aberto da
@@ -599,10 +567,153 @@ elementos constitutivos da estrutura física do espaço e de suas
 relações geométricas, a fim de se alcançar uma leitura situando as
 escalas da Superquadra no discurso sobre morfologia urbana.
 
+Os percursos descritos anteriormente buscam ilustrar momentos de mudança
+de paisagem percebidos pelas pessoas desde o contato visual com um
+edifício até o seu interior. Nesse processo podem ser percebidas algumas
+formas de interação entre o usuário e o espaço público --- com ênfase à
+maneira como as pessoas agem sobre determinados elementos ---
+especialmente àqueles que se identificam e se apropriam com ele. Essas
+relações foram estudadas por Herman Hertzberger e elaboradas a partir da
+comparação entre espaços que estão em uma esfera particular e pública. O
+edifício, materialização do espaço privado dentro da Superquadra, é o
+elemento central sobre o qual orbitam os conceitos apresentados por
+Herzberger.
+
+**Demarcações territoriais** - São a partir desses limites --- nem
+sempre claros --- que se baseiam as relações entre o usuário e o espaço.
+Essa relativização do seu caráter depende de parâmetros como o grau de
+acesso ou forma de supervisão daqueles que o utilizam e de quem se
+responsabiliza por ele. Isso quer dizer que tanto um espaço aberto
+quanto fechado podem ser concebidos como área pública ou privada
+dependendo desses tratamentos. Um apartamento possui essas relações
+entre seus espaços, mesmo tratando-se de um ambiente privado. Um quarto
+é considerado um espaço privado quando comparado à sala de estar ou à
+cozinha. Já o hall de entrada, quando comparado ao apartamento, é menos
+restrito, porém continua tendo seu acesso restrito quando comparado à
+rua. Há, entre espaços mais reservados e a área pública, uma gradação
+das demarcações territoriais. Não é difícil identificar essas gradações.
+O acesso é o principal fator que nos permite perceber essas transições.
+Em uma Superquadra o cinturão verde demarca uma fronteira, assim como o
+pilotis no caso dos edifícios. A transição entre o público e o privado é
+gradual graças a esses elementos.
+
+Essa possível ambiguidade entre o domínio público e o privado dentro de
+uma Superquadra --- muitas vezes reforçada pela inexistência de
+barreiras bem delimitadas --- causam duas reações antagônicas igualmente
+prejudiciais ao espaço comunitário. Ao entrar no território de uma
+quadra o usuário percebe que há um certo grau de apropriação do lugar
+por parte dos moradores. O espaço, apesar de público, é tratado como uma
+extensão da área de influência dos edifícios. Por outro lado, esses
+mesmos moradores que se apropriam de algumas áreas e as privatizam de
+acordo com seus interesses, não sentem obrigações com aquilo que está
+além da fronteira por eles estabelecida. Surgem assim vácuos dentro da
+quadra e lugares nos quais ninguém se identifica, tornando-se território
+de ninguém.
+
+**Diferenciação territorial** - Quando um acesso determina o quão
+público um espaço pode ser. No contexto de Superquadra essa
+diferenciação é visível especialmente no âmbito do automóvel, quando seu
+acesso único é restrito a uma única via. Para o pedestre essa
+diferenciação é percebida pela disposição dos edifícios e seus espaços
+resultantes. Um conjunto de construções paralelos aos limites de uma
+quadra podem ser entendidos como barreiras ou portas de entrada para um
+espaço onde a percepção do que é público já não é mais a mesma, enquanto
+espaços amplos aumentam a sensação de um lugar público.
+
+**Zoneamento territorial** - "O caráter de cada área dependerá em grande
+parte de quem determina o guarnecimento e o ordenamento do espaço, de
+quem está encarregado, de quem zela e de que é ou se sente responsável
+por ele."[^8]
+
+[^8]: HERTZBERGER, Herman. **Lições de Arquitetura/ Herman
+    Hertzberger**; \[tradução Carlos Eduardo Lima Machado\]. 2ª ed. São
+    Paulo: Martins Fontes, 1999, p.22
+
+O arquiteto apresenta um espaço que oferece possibilidades de ocupação
+por parte dos usuários. Não cabe a ele resolver tudo, mas permitir que
+os ocupantes se apropriem. Por exemplo, ao interagir com um elemento de
+fachada que, fundamentalmente, possui a função de proteção solar, o
+morador imprime uma marca que o caracteriza e muda o local. Assim como
+os espaços vazios dentro das quadras que são ocupados com hortas, mesas
+de xadrez ou toalhas de piquenique.
+
+**Intervalo** - É o espaço de transição entre o público e o privado, o
+encontro entre a rua e o particular. É a condição espacial para o
+encontro e o diálogo entre áreas de ordens diferentes, o espaço de boas
+vindas e despedias. São espaços de acomodação entre dois mundos. Na
+Superquadra, os espaços de transição eles são diluídos, dando ao usuário
+uma suave mudança entre esses momentos. Esse fenômeno está presente
+desde a hierarquização das vias, que vão diminuindo a velocidade a
+medida que nos aproximamos das residências, como também no universo da
+Superquadra, onde o pilotis, as guaritas e as áreas comuns dos
+pavimentos são nos preparam para essa mudança.
+
+**Demarcações privadas no espaço público** - A partir do conceito de
+intervalo entende-se que não há uma divisão rígida entre o público e o
+privado, permitindo, assim, que espaços públicos possam sofrer
+interferências. Essa relação pode ser positiva enquanto o caráter da
+área não se altere, ou seja, o público permaneça acessível a todos. É
+comum que moradores sintam a necessidade de expandir sua esfera de
+influência sobre a área pública, havendo exemplos positivos e negativos
+dessas demarcações. Hortas, jardins comunitários e espaços de
+convivências são muitas vezes ofuscados por demarcações de canteiros que
+impedem o acesso de pedestres ao pilotis.
+
+**Obra pública** - É necessário fornecer espaços públicos com os quais a
+comunidade possa se sentir responsável, promovendo uma identificação e
+contribuição por parte dos usuários. Existe, porém um paradoxo com o
+conceito de bem-estar coletivo, onde um sistema é imposto à sociedade.
+Essa relação acaba subordinado as pessoas que acabam não se
+identificando com esse padrão. Os problemas começam no momento em que as
+escalas começam a ficar grandes demais, quando a manutenção de um espaço
+não pode mais ser dada àqueles que estão diretamente relacionados com
+ela, criando a necessidade de uma organização que nem sempre
+representará os interesses coletivos, mas seus próprios. O sentimento de
+responsabilidade se torna distante, já que o indivíduo torna-se cada vez
+mais irrelevante na medida em que as instâncias vão se tornando mais e
+mais burocráticas. Os habitantes da cidade tornam-se estranhos em seu
+próprio ambiente de vida.
 
 
 Conclusão
 =========
+
+Em Brasília a Superquadra é o local onde as pessoas exercem sua
+influência sobre o espaço a partir do sentimento de pertencimento e zelo
+dos moradores. Existem algumas excessões como quadras funcionais que,
+por seu caráter transitório, não provocam em seus moradores a vontade de
+se apropriar do espaço. Esse limite bem determinado gera potenciais
+problemas, como os espaços de interseção acabam se tornando lugares sem
+dono, com os quais ninguém se sente responsável. Os fundos do comércio
+da asa sul são um exemplo de espaço que não pertence à quadra, mas
+também são renegados pelo próprio comércio.
+
+**De usuário a morador** - A diferenciação entre o público e o privado
+indica os locais mais propícios para que os usuários/ habitantes podem
+dar suas contribuições ao espaço. É a partir dessa contribuição os
+usuários tornam-se moradores. Em uma Superquadra a disposição dos
+edifícios e os vazios resultantes podem promover esse sentimento e
+incentivar uma ocupação por parte dos habitantes. O mesmo fenômeno pode
+ser observado em relação às fachadas quando um cobogó é transpassado por
+uma planta ou quando a varanda ou jardineira passam a ser caracterizados
+moradores. Essa referência é necessária para que os indivíduos tenham um
+sentimento de pertencimento, sem o qual não é possível haver
+colaboração.
+
+Esses exemplos mostram que em uma Superquadra --- por se tratar de um
+espaço que permite constantes transições --- os termos público e privado
+nem sempre são os mais adequados. É mais pertinente dizer que os espaços
+livres de uma quadra, assim como o pilotis, são semiprivados ou
+semipúblicos. Nessa lógica é legítimo o uso do espaço público pelos
+moradores para seus próprios interesses e apenas indiretamente ao
+interesse dos outros. O caráter público do espaço é constantemente
+discutido. Ao mesmo tempo, é igualmente válida a apropriação de espaços
+como o pilotis por não moradores para seus interesses, contanto que não
+causem constrangimento ou intimidação aos demais usuários. Sabemos,
+entretanto, que a segunda situação é menos comum e que o que se vê com
+maior frequência é o que podemos chamar de "privatização" do espaço
+público por parte dos moradores, fortalecendo sua demarcação territorial
+nessa área aos olhos dos outros.
 
 Brasília é uma cidade que foi concebida a partir da aplicação e
 apropriação do conceito de escala, podendo ser percebida a todo momento
@@ -611,7 +722,7 @@ da estruturação urbana e qualidade estética da cidade, permeando entre
 as escalas e permitindo que os habitantes tenham uma relação harmônica
 com as diferentes dimensões da cidade. Essa relação entre escalas não
 acontece apenas no que diz respeito às grandezas que orquestram a vida
-do brasiliense descritas por Lúcio Costa, mas também no cenário
+do brasiliense descritas por Lucio Costa, mas também no cenário
 cotidiano representada pela relação dos moradores com o ambiente ao seu
 redor. A Superquadra e seus edifícios formam um conjunto que representa
 essas duas relações de escala. A primeira é parte estruturante do
@@ -636,7 +747,6 @@ condições necessárias mas também pelo incentivo real ao uso
 diferenciado.
 
 
-
 Agradecimentos
 ==============
 
@@ -658,3 +768,8 @@ por Reyner Banham [-@banham:1967theory].
 espacial desenvolvidas em Brasília, por Valério Medeiros
 [-@medeiros:2013urbis], passa ao largo das questões específicas do
 urbanismo modernista.
+
+[^5]: Com a possível exceção da vista que se tem, desde o guarda-corpo
+da plataforma sobre a estação rodoviária, abarcando a esplanada dos
+Ministérios --- "escala monumental" --- emoldurada pelo *vazio* verde da
+"escala bucólica". Ver @cruz:2016arquitetura.
