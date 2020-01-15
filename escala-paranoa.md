@@ -497,73 +497,97 @@ paisagismo pitoresco [@cardoso:2012jardins]?
 
 * * *
 
-A superquadra é o resultado de um urbanismo moderno onde os edifícios
-são elementos isolados dentro do desenho urbano.
+Na urbanização tradicional, o traçado viário e o parcelamento do solo
+são exatamente complementares: a rua e a praça são os espaços vazios
+resultantes da consolidação de edificações ou, quando muito, de divisas
+de lotes claramente demarcadas. Para Krier [-@krier:1988architectural],
+a praça tradicional é um espaço fortemente pregnante, delimitado por
+edificações ao redor de um vazio. Há um alto grau de restrição nos
+percursos possíveis no seu perímetro, minimizando a superfície externa
+de contato com outras ruas e espaços abertos. Organizada a circulação de
+pedestres e veículos geralmente ao longo do perímetro --- constatação
+formulada por Sitte exatamente quando as preocupações rodoviaristas
+começam a se impor sobre a criação de "lugares" [@sitte:1901staedtebau],
+o centro da praça adquire frequentemente um valor simbólico.
 
-As praças e ruas deixam
-de se submeter aos edifícios e tornam-se independentes, assim como a
-separação de fluxos entre os pedestres e os automóveis. Em Brasília, as
-relações entre os espaços públicos da cidade diferem de um espaço urbano
-tradicional onde as ruas e praças são configuradas pelos vazios entre
-construções. A Superquadra, por outro lado, possui três elementos
-principais, os edifícios, os espaços definidos entre eles e as vias de
-automóveis. Ao compararmos a Superquadra com um espaço urbano
-tradicional, identificamos equivalências dos intervalos entre os
-edifícios com praças e ruas.
+Ao destruir a compacidade do quarteirão delimitado pela malha viária, o
+urbanismo modernista esgarça este contato e introduz uma dificuldade de
+conceituação dos espaços intersticiais que vão se abrindo
+[@panerai:2013formas]. A "liberação do chão", de inspiração corbusiana,
+afasta fisicamente as edificações da malha viária --- veicular ou
+pedestre --- e, na ânsia de tornar invisível o parcelamento urbano,
+deixa indefinido o caráter e a destinação das extensões de solo público
+que se abrem entre vias e edificações. A superquadra é resultado desse
+urbanismo modernista, onde os edifícios são objetos escultóricos em meio
+ao espaço fluido. Áreas ostensivamente intituladas como "praças" são
+desprovidas da tradicional delimitação espacial por meio de massas
+edificadas; em contraste, lugares, via de regra internos à superquadra,
+que efetivamente são constituídos e delimitados, não recebem o nome de
+"praças", mas funcionam espacialmente como tais.
 
-Em cidades ditas tradicionais a rua é o espaço vazio resultante da
-consolidação de edificações, emoldurando paisagens e permitindo acesso a
-lugares específicos. Tem um caráter mais funcional do que a praça que,
-por suas características, é mais atrativa para passar o tempo do que a
-rua. As cidades proporcionam uma diversidade de espaços resultantes de
-uma organização complexa de seu desenho e de suas ruas.
+Dois sistemas espaciais coexistem no interior da superquadra e são
+percebidos em alternância. De um lado, o espaço contínuo na superfície
+do solo perpassa as áreas pavimentadas e gramadas, e atravessa os
+pavimentos térreos dos blocos sobre pilotis. Este sistema deriva da
+formulação primordial, já apontada acima, do senso espacial modernista,
+representado na cidade Radiante de Le Corbusier, mas também, em menor
+escala, na indeterminação de ambientes do pavilhão da Alemanha na
+exposição de Barcelona (1929), por Mies van der Rohe. No pós-guerra,
+arquitetos europeus como Yona Friedman e Candilis-Josic-Woods exploram
+o contraste entre o espaço homeotrópico modernista e o seu ordenamento
+por meio de rígidos arcabouços geométricos subjacentes, abstratos ou
+materializados em megaestruturas; já Lucio Costa se mantém fiel ao
+cânone corbusiano, propondo uma suave fluidez espacial, pontuada de modo
+pitoresco por elementos paisagísticos.
 
-Em áreas residenciais a rua representa um espaço de circulação e
-recreação, entretanto a separação entre veículos e pedestres pode causar
-um isolamento da zona pedonal. A rua torna-se espaço exclusivo do
-automóvel. Dentro de uma Superquadra a separação entre automóveis e
-pedestres minimiza conflitos e diminui a interferência de uma utilidade
-em relação à outra.
-
-A via comercial é exclusiva para acesso às lojas, sendo otimizada de
-acordo com os pontos a serem conectados. O mesmo acontece no interior da
-quadra, onde seu propósito é a de traçar um caminho até os edifícios.
-Essa restrição à circulação dos automóveis permite que haja mais espaço
-livre para o convívio e demais atividades. A flexibilidade desses
-espaços permite sua ocupação de forma livre a gosto dos usuários,
-podendo abrigar brincadeiras de crianças ou um piquenique.
-
-As atividades que ocorrem dentro das quadras se manifestam em esferas
-públicas e privadas. A forma como o espaço público se organiza é uma
-forte influência no modo de como planejamos o interior de nossas casas.
-O universo particular dos moradores, os espaços internos de seus
-apartamentos, são influenciados pelas relações que as pessoas tem no
-espaço público. O oposto também acontece, quando a esfera privada
-extrapola os limites das projeções de seus edifícios. Há, entretanto, um
-ritual social que resulta no perfeito equilíbrio entre uma ação
-individual e coletiva. Isso ocorre principalmente em atividades a céu
-aberto, por exemplo, quando atividades pessoais são manifestadas em
-espaço público.
-
-São essas atividades que dão função a um espaço dentro de uma
-superquadra, distinguindo um espaço vazio de uma praça. Para Krier
-[-@krier:1988architectural], a praça tradicional é um espaço altamente
-controlado determinado por edificações ao redor de um espaço aberto. Há
-um alto controle de quem a acessa minimizando a superfície externa de
-contato com outras ruas e espaços abertos. Essa espécie de quintal se
-torna frequentemente um espaço de valor simbólico. Com o passar do tempo
-a praça adequou-se ao uso residencial, caracterizando-se como um átrio
-que, infelizmente, --- assim como as praças públicas --- perderam seu
-significado e importância simbólica. O espaço tornou-se banal. É
-possível interpretar a Superquadra como uma configuração de casa
-quarteirão, onde os edifícios não estão mais faceados às ruas, mas
-dispostos livremente dentro do limite da quadra. Os espaços que antes
-eram de uso exclusivo da vizinhança tornam-se públicos, porém seu
-caráter local permanece.
+Por outro lado, basta alçar os olhos para as massas arbóreas e as
+superfícies verticais das fachadas dos blocos, ou mesmo deparar-se com
+uma barreira topográfica, para descobrir o segundo sistema espacial
+Emergem volumes espaciais dotados de uma geometria visual mais ou menos
+clara, interpenetrando-se sem perder sua identidade formal. Ora as
+proporções desses espaços são extremamente esgarçadas, devido à grande
+distância entre blocos, reduzindo a pregnância dessas formas
+volumétricas; ora os blocos são dispostos tão próximos uns dos outros
+que se constituem ruas--corredor fortemente imagéticas e remansos
+protegidos. As transições entre espaços assim definidos traz ecos
+distantes das articulações de praças medievais caras a Camillo Sitte,
+mas antecede a reabilitação teórica deste urbanista austríaco em algumas
+décadas [@kohlsdorf:2005presenca].
 
 
 Em torno à edificação
 =====================
+
+No *Relatório do P.P.B.,* o leito carroçável é não-lugar por excelência:
+eixo de trânsito em alta velocidade ou acesso local para serviço e
+abastecimento, Costa não lhe atribui explicitamente quaisquer qualidades
+espaciais no texto.[^5] O interior da superquadra, tal como representado
+em croquis por Lucio Costa, é (intencionalmente?) ambíguo quanto à
+existência de um leito carroçável pavimentado e diferenciado com
+respeito à superfície genérica do solo. As vias mais nitidamente
+demarcadas, como a rua comercial ou os estacionamentos entre blocos,
+deveriam ter marcado caráter de "fundos".
+
+O tropismo da rua--corredor tradicional acaba, todavia, por se impor
+sobre a intenção do urbanista; seja por atavismo espacial ou estético
+dos usuários, seja por mera conveniência de circulação automobilística,
+as lojas do comércio local voltam-se invariavelmente para a rua de
+acesso, como o fazem as guaritas de portaria dos blocos e, em edifícios
+mais recentes, mesmo as fachadas. Nessa escala, começa a observar-se,
+portanto, uma reversão total da lógica urbanística do P.P.B.: as
+oportunidades e demandas atinentes às próprias edificações adquirem a
+capacidade de determinar a configuração e apropriação do espaço público.
+
+Esta mudança se inicia com a afirmação de territorialidades privadas
+sobre o espaço público imediatamente circundante às edificações. Ao
+longo das duas últimas décadas, cafés e restaurantes vêm "redescobrindo"
+os atrativos do acesso, mesmo que secundário, pelo cinturão verde e
+pedestre das superquadras. No entanto, tal movimento deve-se em grande
+parte à já citada separação espacial entre vias e tecido edificado:
+extensas faixas de espaço indefinido passam, assim, a serem
+"territorializadas" pelo comércio, de modo mais ou menos permanente,
+como esplanadas de consumação. Semelhante territorialização ocorre
+também no interior da superquadra.
 
 Esse bloco se relaciona com o usuário de diferentes formas: delimitação
 espacial, como plano de fundo para quem circula no espaço aberto da
@@ -640,11 +664,7 @@ espaços amplos aumentam a sensação de um lugar público.
 Zoneamento territorial - "O caráter de cada área dependerá em grande
 parte de quem determina o guarnecimento e o ordenamento do espaço, de
 quem está encarregado, de quem zela e de que é ou se sente responsável
-por ele."[^8]
-
-[^8]: HERTZBERGER, Herman. Lições de Arquitetura/ Herman
-    Hertzberger; \[tradução Carlos Eduardo Lima Machado\]. 2ª ed. São
-    Paulo: Martins Fontes, 1999, p. 22
+por ele." [@hertzberger:1999licoes, p. 22]
 
 O arquiteto apresenta um espaço que oferece possibilidades de ocupação
 por parte dos usuários. Não cabe a ele resolver tudo, mas permitir que
@@ -790,3 +810,8 @@ urbanismo modernista.
 da plataforma sobre a estação rodoviária, abarcando a esplanada dos
 Ministérios --- "escala monumental" --- emoldurada pelo *vazio* verde da
 "escala bucólica". Ver @cruz:2016arquitetura.
+
+[^5]: As "alças" viárias na estação rodoviária e o sistema de viadutos
+para saída dos eixos são as exceções que, pela sua fixação na logística
+do transporte mais do que pela fruição do espaço, confirmam esta
+assertiva.
