@@ -415,7 +415,7 @@ equipamentos [@machado:2007superquadra].
 Superquadra como elemento de composição
 =======================================
 
-Tal constatação não exclui, é verdade, uma leitura não "funcionalista"
+Tal constatação não exclui, é verdade, uma leitura não funcionalista
 da implantação e do dimensionamento da superquadra, até porque a
 superquadra se encontra, segundo Holanda [-@holanda:2018espaco, p. 327],
 "entre as versões mais 'suaves' do genótipo moderno" em termos de
@@ -430,60 +430,77 @@ modenatura.
 Dessas oito "disposições", algumas pertencem à esfera da reflexão
 conceitual sobre os valores abstratos do P.P.B.: é o caso do *partido*,
 entendido como princípio de coesão entre as partes que são compreendidas
-como um todo; corolário desta coesão é a homogeneidade --- um tanto
-ilusória --- de gabarito, densidade e arborização: este é o princípio de
-*isonomia e ubiquidade.* Quanto aos seis outros instrumentos de
-composição, eles têm em comum o fato de serem aplicáveis tanto às
-articulações entre superquadras contíguas quanto à estruturação do
-desenho urbano como um todo. A obra de Gorovitz dedica-se exaustivamente
-a esta segunda categoria, pelo que serão agregadas a seguir breves
-observações sobre as articulações locais.
+como um todo; expressão concreta desta coesão é a homogeneidade --- um
+tanto ilusória --- de gabarito, densidade e arborização: este é o
+princípio de *isonomia e ubiquidade.* Quanto aos seis outros
+instrumentos de composição, eles têm em comum o fato de serem aplicáveis
+tanto às articulações entre superquadras contíguas quanto à estruturação
+do desenho urbano como um todo. A obra de Gorovitz dedica-se
+exaustivamente a esta segunda categoria, pelo que serão agregadas a
+seguir breves observações sobre as articulações locais.
 
 A *axialidade,* caracterizada em termos estruturantes pela disposição
 das quadras em renques paralelos ao eixo Rodoviário, oferece na escala
-local um arrimo à *eurritmia:* relação de encadeamento das quadras.
-
-A presença da "escala bucólica" contígua à "escala residencial" cumpre
-aqui um papel de mediação imediatamente apreendido na identidade quase
-completa entre o cinturão verde das superquadras e os percursos
-pedestres que as contornam, integrando as unidades de vizinhança entre
-si. Ao panorama rodoviário, com blocos quase inteiramente camuflados
-pelas copas das árvores sucede o panorama pedestre, com alamedas de
-campos visuais enquadrados, mas ainda visualmente permeáveis. A
-aproximação gradual, da perspectiva motorizada àquela peã, da passagem
-rápida à permanência, vai trazendo gradualmente para o primeiro plano os
+local um marco à *eurritmia:* relação de encadeamento das quadras. A
+presença bucólica contígua à residencial cumpre aqui um papel de
+mediação imediatamente apreendido, fazendo assim plenamente jus à
+nomenclatura de "escalas". As alamedas ortogonais dos cinturões verdes
+que delimitam as superquadras se prolongam a perder de vista, integrando
+as unidades de vizinhança entre si. A aproximação gradual, da
+perspectiva motorizada àquela peã, do tráfego em velocidade rápida à
+permanência no lugar, vai trazendo gradualmente para o primeiro plano os
 elementos particulares das relações de escala no interior da unidade de
-vizinhança.
+vizinhança. Ao panorama rodoviário, com blocos quase inteiramente
+camuflados pelas copas das árvores sucede o panorama pedestre,
+conferindo clareza e orientabilidade por meio das relações de escala.
 
+A superquadra é o módulo que ordena a trama dos setores residenciais da
+cidade, agrupando-se em unidades de vizinhança, mediante *comodulação e
+proporção.* Quatro superquadras, dispostas num retângulo com
+aproximadamente 700 por 600 metros de lado --- a modularidade não é
+exata e as dimensões variam segundo a curvatura das Asas ---, são
+intercaladas por ruas comerciais curtas e descontínuas e por
+"entrequadras" --- extensas áreas para equipamentos cívicos e coletivos.
+A disposição em cremalheira das ruas comerciais e das entrequadras,
+espécie de *modenatura* dos elementos urbanísticos, faz com que o espaço
+da unidade de vizinhança seja fluido, cada superquadra podendo pertencer
+a duas unidades de cada vez. A unidade é, portanto, percebida
+abstratamente, por meio do seu uso, ao passo que as relações
+proporcionais e modulares dos elementos que a compõem --- superquadra,
+rua comercial e entrequadra --- são objeto de percepção visual e
+fenomenológica mais direta.
 
-A superquadra é o módulo que ordena a trama urbana da cidade, mediante
-*comodulação e proporção.* Essa característica é fundamental para
-compreender a organização do setor habitacional que é regida pelos
-seguintes parâmetros:
+Certos pontos da unidade de vizinhança são privilegiados no tocante à
+percepção tanto da *axialidade* quanto da *comodulação e proporção* das
+superquadras. Trata-se, mormente, das esquinas internas do cinturão
+verde, onde se cruzam as alamedas retilíneas e de onde a vista abarca,
+simultaneamente, as quatro superquadras, uma rua comercial e uma
+entrequadra. A unidade formal das superquadras, conferida pela cota de
+coroamento dos blocos periféricos e pelo cinturão verde, contrasta com a
+diversidade de configurações possíveis para os equipamentos das
+entrequadras.
 
-a. Quatro quadras compõem a Unidade de Vizinhança
-
-b. Oito Unidades de Vizinhança enfileiradas definem o comprimento de
-uma asa onde as quadras ímpares estão a oeste do eixo rodoviário e as
-quadras pares a leste.
-
-c. A asa, conjunto de oito unidades de vizinhança (32 quadras), é
-rebatida ao longo do eixo monumental, dando origem às asas sul e norte.
-
-A *simetria* reforça as relações plásticas estabelecendo a equivalência
-entre as partes da cidade. O quadrado que configura os limites da
-Superquadra e o triângulo equilátero que define o *traçado regulador* do
-conjunto. A adoção das mesmas normas e soluções arquitetônicas
-semelhantes nas quadras permite que elas sejam vivenciadas
-simultaneamente.
-
-Cada parte da composição é tratada de maneira particular. Essa
-*modenatura* promove a diversidade e unidade entre as escalas da cidade.
+Curiosamente, porém, se a *comodulação e proporção* podem ser
+experimentadas com maior clareza no âmbito local e do ponto de vista do
+pedestre na unidade de vizinhança, o inverso ocorre com a *simetria* e o
+*traçado regulador* do sistema. O cruzamento dos eixos de simetria da
+unidade, de onde seria, também, possível apreender com maior clareza o
+rigor geométrico do traçado regulador, é fenomenologicamente *virtual*:
+situa-se no centro da rotatória que distribui a circulação local de
+veículos, espaço não acessível ao pedestre e amiúde obstruído com massas
+arbustivas e arbóreas. Seria este mais um caso de contradição entre o
+caráter pretensamente claro e racional do discurso verbal, de um lado, e
+a apreensão visual e espacial da forma urbana, do outro? Ou trata-se de
+ambiguidade esperada num *plano piloto* que assume, ainda que
+implicitamente, as incongruências intencionais e as vistas recortadas do
+paisagismo pitoresco [@cardoso:2012jardins]?
 
 * * *
 
-A Superquadra é o resultado de um urbanismo moderno onde os edifícios
-são elementos isolados dentro do desenho urbano. As praças e ruas deixam
+A superquadra é o resultado de um urbanismo moderno onde os edifícios
+são elementos isolados dentro do desenho urbano.
+
+As praças e ruas deixam
 de se submeter aos edifícios e tornam-se independentes, assim como a
 separação de fluxos entre os pedestres e os automóveis. Em Brasília, as
 relações entre os espaços públicos da cidade diferem de um espaço urbano
