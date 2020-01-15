@@ -4,7 +4,8 @@ filters:
 fail-if-warnings       : True
 file-scope             : True
 standalone             : True
-to                     : 'docx'
+to                     : 'odt'
+output-file            : '_entrega/escala_sq.odt'
 default-image-extension: '.jpg'
 table-of-contents      : False
 number-sections        : False
@@ -16,4 +17,4 @@ resource-path:
 - fig
 author                 : ''
 affiliation            : ''
-reference-doc          : 'spec/paranoa.docx'
+reference-doc          : 'spec/paranoa.odt'
