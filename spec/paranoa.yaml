@@ -1,20 +1,21 @@
 filters:
-- pandoc-internalrefs
+# - pandoc-internalrefs
 - pandoc-citeproc
-fail-if-warnings       : True
+fail-if-warnings       : False
 file-scope             : True
 standalone             : True
-to                     : 'odt'
+input-file             : 'escala-paranoa.md'
 output-file            : '_entrega/escala_sq.odt'
 default-image-extension: '.jpg'
-table-of-contents      : False
-number-sections        : False
-bibliography           : 'biblio.bib'
-csl                    : 'spec/styles/associacao-brasileira-de-normas-tecnicas-ufrgs.csl'
-bibliography-title     : 'Referências bibliográficas'
+metadata:
+  table-of-contents    : False
+  number-sections      : True
+  bibliography         : 'biblio.bib'
+  csl                  : 'spec/styles/associacao-brasileira-de-normas-tecnicas-ufrgs.csl'
+  bibliography-title   : 'Referências bibliográficas'
+  # author               : ''
+  # affiliation          : ''
 resource-path:
 - .
 - fig
-author                 : ''
-affiliation            : ''
-reference-doc          : 'spec/paranoa.odt'
+reference-doc          : '_recebido/paranoa.odt'

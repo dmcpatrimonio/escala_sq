@@ -65,6 +65,7 @@ keywords:
   Unidade de vizinhança
   Morfologia urbana
 nocite: "@costa:1974consideracoes"
+language: "Portuguese"
 ---
 
 Introdução
@@ -138,11 +139,11 @@ ou construtivas, mas sobretudo por uma nova e peculiar concepção do
 espaço.[^2] Tal formulação deixa claro que o modernismo se institui não
 como sucessão natural do "progresso da técnica" defendido por Lucio
 Costa [-@costa:2007documentacao], muito menos como internalização
-gradual do processo artístico e técnico, como proposto por Greenberg
-[-@greenberg], mas como visão de mundo irredutível ao universo da arte
-tradicional e à historiografia desta mesma tradição. Enquanto visão de
-mundo, demanda adesão moral no lugar da crítica [@watkin:1977morality],
-e dá-se a ver por meio da exegese em vez da historiografia
+gradual do processo artístico e técnico, como proposto por Greenberg,
+mas como visão de mundo irredutível ao universo da arte tradicional e à
+historiografia desta mesma tradição. Enquanto visão de mundo, demanda
+adesão moral no lugar da crítica [@watkin:1977morality], e dá-se a ver
+por meio da exegese em vez da historiografia
 [@colquhoun:1981historicism].
 
 Diante desse descompasso, a historiografia sobre a capital federal tem
@@ -276,10 +277,10 @@ do arquiteto" rumo à abstração.
 A relação entre o conceito convencional de escala e as "escalas" de
 Brasília é ambígua. Italo Campofiorito, ao transformar as palavras de
 seu amigo Lucio Costa em decreto de preservação da cidade
-[@distritofederal:1987regulamenta], trata cada uma das quatro escalas
+[@distritofederal:1987decreto10829], trata cada uma das quatro escalas
 como meramente sinônimo de um "setor" urbanístico --- interpretação
 recepcionada na portaria do atual Instituto do Patrimônio Histórico e
-Artístico Nacional (IPHAN) n.° 314 [@ibpc:1992protecao]. Por sua vez,
+Artístico Nacional (IPHAN) n.° 314 [@ibpc:1992portaria314]. Por sua vez,
 Gorovitz, no seu livro de 1985 --- anterior, portanto, à afirmação
 categórica das escalas no "Brasília revisitada" --- adota a ambiguidade
 característica do discurso arquitetônico modernista. Sua tentativa de
