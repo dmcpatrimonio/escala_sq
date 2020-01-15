@@ -90,6 +90,10 @@ concebida por Lucio Costa no *Relatório do Plano Pilôto de Brasília*
 (P.P.B.) vencedor, em 1957, do concurso para o projeto da nova capital
 federal.
 
+![Representação da unidade de vizinhança de Clarence Perry
+[-@perry:1929neighborhood7, p. 20]
+](https://upload.wikimedia.org/wikipedia/commons/5/5e/Clarence_Perry%27s_Neighborhood_Unit%2C_1928.jpg){#fig:01}
+
 É na Superquadra que se manifesta de modo mais característico a
 modernidade que perpassa o projeto de Lucio Costa [@eldahdah:2005case],
 mais até do que na icônica esplanada dos Ministérios [@marquez:2009] ou
@@ -116,7 +120,10 @@ lago Paranoá [@bercott:2017historia] ---, é crucial para a reflexão
 sobre a preservação do conjunto urbanístico de Brasília e sobre os rumos
 do pensamento modernista na contemporaneidade.
 
-Este trabalho tem o propósito de averiguar a aplicabilidade de certos
+![Lucio Costa, Unidade de vizinhança no *Relatório do Plano Piloto de Brasília*
+](){#fig:02}
+
+Este artigo tem o propósito de averiguar a aplicabilidade de certos
 procedimentos de classificação e avaliação do espaço aberto e de sua
 delimitação edificada nas superquadras que compõem o conceito de unidade
 de vizinhança em Brasília Para tanto, abordam-se as relações de escala
@@ -293,6 +300,11 @@ caráter dos diferentes setores da cidade:
 > deliberada do arquiteto, em função de opções particulares.
 > [@gorovitz:1985brasilia, p. 28]
 
+![Instituto Brasileiro do Patrimônio Cultural, atual Instituto do
+Patrimônio Histórico e Artístico Nacional (Iphan). Setores morfológicos
+de Brasília congruentes às quatro "escalas" da cidade, 1992
+](){#fig:03}
+
 O único critério exposto com clareza nessa mediação das "partes" de
 Brasília por meio das "escalas" é, portanto, a liberdade de que goza o
 urbanista para estipular os parâmetros do seu projeto. Assim, ao mesmo
@@ -356,6 +368,10 @@ metros de raio, tendo dimensão semelhante a unidade de vizinhança de
 Brasília --- quanto da imposição de barreiras, como as pistas de alta
 velocidade.
 
+![Esquema da unidade de vizinhança de Brasília. Desenho: Gabriel
+Solórzano
+](){#fig:04}
+
 O acesso às quadras se faz através de um sistema de hierarquia viária
 decrescente, em árvore. Esta organização materializa o sentido de
 transição da monumentalidade, que se espalha da esplanada dos
@@ -414,6 +430,10 @@ este se encontra, nos dizeres do *Relatório do P.P.B.,* "domesticado"
 como "membro da família" (antropomorfização visionária, que prenuncia o
 estilo de vida *sobre rodas* da burguesia brasiliense!).
 
+![Alameda pedestre no cinturão verde da Superquadra sul 308. Foto: Gabriel
+Solórzano, 2019
+](){#fig:05}
+
 O cinturão verde serve, em primeira instância, para mascarar os
 edifícios --- Costa já antevê, desde 1957, o frustrante percurso do
 "modernismo periférico" [@kohlsdorf:2009brasilia] na produção
@@ -467,6 +487,10 @@ poderíamos chamá-las, com mais propriedade, de *instrumentos de
 composição.* São estas: partido; axialidade; eurritmia; comodulação e
 proporção; simetria; traçado regulador; isonomia e ubiquidade; e
 modenatura.
+
+![Instrumentos de composição propostos por Gorovitz para analisar a
+superquadra. Desenho: Gabriel Solórzano, 2019
+](){#fig06}
 
 Dessas oito "disposições", algumas pertencem à esfera da reflexão
 conceitual sobre os valores abstratos do P.P.B.: é o caso do *partido*,
@@ -566,6 +590,10 @@ edificadas; em contraste, lugares, via de regra internos à superquadra,
 que efetivamente são constituídos e delimitados, não recebem o nome de
 "praças", mas funcionam espacialmente como tais.
 
+![Sistemas espaciais da superquadra: espaço contínuo modernista e
+espaço-figura tradicional. Desenho: Gabriel Solórzano, 2020
+](){#fig:07}
+
 Dois sistemas espaciais coexistem no interior da superquadra e são
 percebidos em alternância. De um lado, o espaço contínuo na superfície
 do solo perpassa as áreas pavimentadas e gramadas, e atravessa os
@@ -643,6 +671,10 @@ mais recentes, mesmo as fachadas. Nessa escala, começa a observar-se,
 portanto, uma reversão total da lógica urbanística do P.P.B.: as
 oportunidades e demandas atinentes às próprias edificações adquirem a
 capacidade de determinar a configuração e apropriação do espaço público.
+
+![Espaço entre o renque do comércio local e o cinturão verde da
+superquadra. Foto: Gabriel Solórzano, 2020
+](){#fig:08}
 
 Esta mudança se inicia com a afirmação de territorialidades privadas
 sobre o espaço público imediatamente circundante às edificações. Ao
@@ -733,6 +765,10 @@ corriqueiros de demarcações privadas geralmente bem aceitas na percepção
 comunitária --- são muitas vezes ofuscados por simples demarcações de
 canteiros que canalizam o acesso de pedestres ao pilotis em percursos
 claramente delimitados e facilmente vigiados.
+
+![Demarcação privada no espaço público em frente a um bloco residencial
+da superquadra. Foto: Gabriel Solórzano, 2020
+](){#fig:09}
 
 É necessário fornecer espaços públicos com os quais a comunidade possa
 se sentir responsável, promovendo uma identificação e contribuição por
