@@ -78,17 +78,18 @@ do pensamento modernista na contemporaneidade.
 
 Este trabalho tem o propósito de averiguar a aplicabilidade de certos
 procedimentos de classificação e avaliação do espaço aberto e de sua
-delimitação edificada nas superquadras que compõem a unidade de
-vizinhança original de Brasília --- a única amplamente reconhecida como
-representativa do *plano piloto* de Lucio Costa, formada pelas quadras
-residenciais 107, 108, 307 e 308 e seus equipamentos lindeiros. Para
-tanto, abordam-se as relações de escala nos diversos elementos e espaços
-que as conformam. Dessa proposta, emerge a questão: as peculiaridades
-metodológicas, pretensamente necessárias para se abordar a cidade
-modernista, se justificam pelas especificidades inerentes aos
-*paradigmas* modernos e de Brasília, ou trata-se de mera *mistificação*
-modernista destinada a velar uma análise mais criteriosa de seu espaço
-urbano?
+delimitação edificada nas superquadras que compõem o conceito de unidade
+de vizinhança em Brasília Para tanto, abordam-se as relações de escala
+nos diversos elementos e espaços que as conformam. Dessa proposta,
+emerge a questão: as peculiaridades metodológicas, pretensamente
+necessárias para se abordar a cidade modernista, se justificam pelas
+especificidades inerentes aos *paradigmas* modernos e de Brasília, ou
+trata-se de justificativas *post facto* --- discursos abstratos, ou mera
+*mistificação* modernista destinada a velar uma análise mais criteriosa
+de seu espaço urbano? Esses dois aspectos são discutidos segundo os
+elementos constitutivos da estrutura física do espaço e de suas relações
+geométricas, a fim de se alcançar uma leitura situando as escalas da
+Superquadra no discurso sobre morfologia urbana.
 
 O desconforto acadêmico diante da especificidade modernista remonta
 aos primeiros ensaios de uma historiografia não militante do
@@ -558,6 +559,31 @@ décadas [@kohlsdorf:2005presenca].
 Em torno à edificação
 =====================
 
+Os percursos descritos anteriormente buscam ilustrar momentos de mudança
+de paisagem percebidos pelas pessoas desde o contato visual com um
+edifício até o seu interior. Nesse processo podem ser percebidas algumas
+formas de interação entre o usuário e o espaço público --- com ênfase à
+maneira como as pessoas agem sobre determinados elementos ---
+especialmente àqueles que se identificam e se apropriam com ele. Essas
+relações foram estudadas por Herman Hertzberger e elaboradas a partir da
+comparação entre espaços que estão em uma esfera particular e pública. O
+edifício, materialização do espaço privado dentro da Superquadra, é o
+elemento central sobre o qual orbitam os conceitos apresentados por
+Hertzberger [-@hertzberger:1999licoes].
+
+O bloco residencial, enquanto realidade física, se relaciona com o
+usuário de diferentes modos: delimitação espacial, como plano de fundo
+para quem circula no espaço aberto da Superquadra e define seus espaços
+e limites, espaço de passagem e abrigo transitório contra a chuva ou o
+sol, ou moldura da paisagem vista de dentro para fora, por intermédio de
+suas janelas e sacadas. Em todas essas funções, os blocos de Superquadra
+evidenciam mudanças de relações a depender da escala de interação com o
+usuário. Desde a dinâmica dos espaços gerados a partir da disposição
+desses blocos dentro dessa moldura que é a Superquadra, até o
+entendimento individual e seu relacionamento com o bem público.
+
+* * *
+
 No *Relatório do P.P.B.,* o leito carroçável é não-lugar por excelência:
 eixo de trânsito em alta velocidade ou acesso local para serviço e
 abastecimento, Costa não lhe atribui explicitamente quaisquer qualidades
@@ -584,59 +610,23 @@ longo das duas últimas décadas, cafés e restaurantes vêm "redescobrindo"
 os atrativos do acesso, mesmo que secundário, pelo cinturão verde e
 pedestre das superquadras. No entanto, tal movimento deve-se em grande
 parte à já citada separação espacial entre vias e tecido edificado:
-extensas faixas de espaço indefinido passam, assim, a serem
-"territorializadas" pelo comércio, de modo mais ou menos permanente,
-como esplanadas de consumação. Semelhante territorialização ocorre
-também no interior da superquadra.
+extensas faixas de espaço indefinido passam, assim, a sofrerem
+*delimitação territorial* --- um dos conceitos de Hertzberger --- por
+parte do comércio, de modo mais ou menos permanente, como esplanadas de
+consumação.
 
-Esse bloco se relaciona com o usuário de diferentes formas: delimitação
-espacial, como plano de fundo para quem circula no espaço aberto da
-Superquadra e define seus espaços e limites, espaço de passagem e abrigo
-transitório contra a chuva ou o sol, ou moldura da paisagem vista de
-dentro para fora, por intermédio de suas janelas e sacadas. Em todas
-essas funções, os blocos de Superquadra evidenciam mudanças de relações
-a depender da escala de interação com o usuário. Desde a dinâmica dos
-espaços gerados a partir da disposição desses blocos dentro dessa
-moldura que é a Superquadra, até o entendimento individual e seu
-relacionamento com o bem público. São essas relações que serão descritas
-ao longo desse trabalho. Para tanto, descrevem-se os *paradigmas*
-projetuais que deram origem à tipologia das lâminas edificadas dos
-blocos de Superquadras em Brasília, assim como as justificativas *post
-facto* --- teorias ou *mistificações*? --- que vieram respaldar o
-conceito da Superquadra. Esses dois aspectos são discutidos segundo os
-elementos constitutivos da estrutura física do espaço e de suas
-relações geométricas, a fim de se alcançar uma leitura situando as
-escalas da Superquadra no discurso sobre morfologia urbana.
-
-Os percursos descritos anteriormente buscam ilustrar momentos de mudança
-de paisagem percebidos pelas pessoas desde o contato visual com um
-edifício até o seu interior. Nesse processo podem ser percebidas algumas
-formas de interação entre o usuário e o espaço público --- com ênfase à
-maneira como as pessoas agem sobre determinados elementos ---
-especialmente àqueles que se identificam e se apropriam com ele. Essas
-relações foram estudadas por Herman Hertzberger e elaboradas a partir da
-comparação entre espaços que estão em uma esfera particular e pública. O
-edifício, materialização do espaço privado dentro da Superquadra, é o
-elemento central sobre o qual orbitam os conceitos apresentados por
-Hertzberger.
-
-Demarcações territoriais - São a partir desses limites --- nem
-sempre claros --- que se baseiam as relações entre o usuário e o espaço.
-Essa relativização do seu caráter depende de parâmetros como o grau de
-acesso ou forma de supervisão daqueles que o utilizam e de quem se
-responsabiliza por ele. Isso quer dizer que tanto um espaço aberto
-quanto fechado podem ser concebidos como área pública ou privada
-dependendo desses tratamentos. Um apartamento possui essas relações
-entre seus espaços, mesmo tratando-se de um ambiente privado. Um quarto
-é considerado um espaço privado quando comparado à sala de estar ou à
-cozinha. Já o hall de entrada, quando comparado ao apartamento, é menos
-restrito, porém continua tendo seu acesso restrito quando comparado à
-rua. Há, entre espaços mais reservados e a área pública, uma gradação
-das demarcações territoriais. Não é difícil identificar essas gradações.
-O acesso é o principal fator que nos permite perceber essas transições.
-Em uma Superquadra o cinturão verde demarca uma fronteira, assim como o
-pilotis no caso dos edifícios. A transição entre o público e o privado é
-gradual graças a esses elementos.
+Semelhante territorialização ocorre também no interior da superquadra. É
+a partir desses limites --- nem sempre claros --- que se baseiam as
+relações entre o usuário e o espaço. Essa relativização do seu caráter
+depende de parâmetros como o grau de acesso ou forma de supervisão
+daqueles que o utilizam e de quem se responsabiliza por ele. Isso quer
+dizer que tanto um espaço aberto quanto fechado podem ser concebidos
+como área pública ou privada dependendo desses tratamentos. Não é
+difícil identificar essas gradações. O acesso é o principal fator que
+nos permite perceber essas transições. Em uma Superquadra o cinturão
+verde demarca uma fronteira, assim como o pilotis no caso dos edifícios.
+A transição entre o público e o privado é gradual graças a esses
+elementos.
 
 Essa possível ambiguidade entre o domínio público e o privado dentro de
 uma Superquadra --- muitas vezes reforçada pela inexistência de
@@ -651,137 +641,135 @@ além da fronteira por eles estabelecida. Surgem assim vácuos dentro da
 quadra e lugares nos quais ninguém se identifica, tornando-se território
 de ninguém.
 
-Diferenciação territorial - Quando um acesso determina o quão
-público um espaço pode ser. No contexto de Superquadra essa
-diferenciação é visível especialmente no âmbito do automóvel, quando seu
-acesso único é restrito a uma única via. Para o pedestre essa
-diferenciação é percebida pela disposição dos edifícios e seus espaços
-resultantes. Um conjunto de construções paralelos aos limites de uma
-quadra podem ser entendidos como barreiras ou portas de entrada para um
-espaço onde a percepção do que é público já não é mais a mesma, enquanto
-espaços amplos aumentam a sensação de um lugar público.
+* * *
 
-Zoneamento territorial - "O caráter de cada área dependerá em grande
-parte de quem determina o guarnecimento e o ordenamento do espaço, de
-quem está encarregado, de quem zela e de que é ou se sente responsável
-por ele." [@hertzberger:1999licoes, p. 22]
+A *delimitação territorial* é associada à *diferenciação territorial:*
+quando um acesso determina o quão público um espaço pode ser. No
+contexto da superquadra, essa diferenciação é visível especialmente no
+âmbito do automóvel, quando seu acesso único é restrito a uma única via.
+Para o pedestre essa diferenciação deve ser percebida apenas pela
+disposição dos edifícios e seus espaços resultantes. Um conjunto de
+construções paralelos aos limites de uma quadra podem ser entendidos
+como barreiras ou portas de entrada para um espaço onde a percepção do
+que é público já não é mais a mesma, enquanto espaços amplos aumentam a
+sensação de um lugar público.
 
-O arquiteto apresenta um espaço que oferece possibilidades de ocupação
-por parte dos usuários. Não cabe a ele resolver tudo, mas permitir que
-os ocupantes se apropriem. Por exemplo, ao interagir com um elemento de
-fachada que, fundamentalmente, possui a função de proteção solar, o
-morador imprime uma marca que o caracteriza e muda o local. Assim como
-os espaços vazios dentro das quadras que são ocupados com hortas, mesas
-de xadrez ou toalhas de piquenique.
+Na prática, porém, amplos e cambiantes processos de diferenciação
+territorial são levados a cabo pelos condomínios residenciais por meio
+do paisagismo. O *zoneamento territorial* é onde "o caráter de cada área
+dependerá em grande parte de quem determina o guarnecimento e o
+ordenamento do espaço, de quem está encarregado, de quem zela e de que é
+ou se sente responsável por ele" [@hertzberger:1999licoes, p. 22]. Na
+superquadra, o zoneamento assume a forma de um *horror vacui,* a
+rejeição da indefinição geométrica e visual do espaço fluido
+modernista.[^6]
 
-Intervalo - É o espaço de transição entre o público e o privado, o
-encontro entre a rua e o particular. É a condição espacial para o
-encontro e o diálogo entre áreas de ordens diferentes, o espaço de boas
-vindas e despedias. São espaços de acomodação entre dois mundos. Na
-Superquadra, os espaços de transição eles são diluídos, dando ao usuário
-uma suave mudança entre esses momentos. Esse fenômeno está presente
-desde a hierarquização das vias, que vão diminuindo a velocidade a
-medida que nos aproximamos das residências, como também no universo da
-Superquadra, onde o pilotis, as guaritas e as áreas comuns dos
-pavimentos são nos preparam para essa mudança.
+Essa rejeição se opera em dois níveis. Primeiro, pelo estabelecimento de
+*Intervalos* --- o espaço, entendido como extensão geométrica tangível,
+de transição entre o público e o privado, o encontro entre a rua e o
+particular. É a condição espacial para o encontro e o diálogo entre
+áreas de ordens diferentes, o espaço de boas vindas e despedias. São
+espaços de acomodação entre dois mundos. Na concepção da superquadra, os
+espaços de transição eles são diluídos, dando ao usuário uma suave
+mudança entre esses momentos. Esse fenômeno está presente desde a
+hierarquização das vias, que vão diminuindo a velocidade a medida que
+nos aproximamos das residências, como também no universo da Superquadra,
+onde o pilotis, as guaritas e as áreas comuns dos pavimentos são nos
+preparam para essa mudança. No entanto, a ocorrência cada vez mais
+frequente de taludes, desníveis, rampas em incorporações imobiliárias
+recentes tem contribuído para tornar os *intervalos* uma presença
+marcante nas superquadras.
 
-Demarcações privadas no espaço público - A partir do conceito de
+Por fim, no estágio mais explícito de territorialização, ocorrem
+*demarcações privadas no espaço público.* A partir do conceito de
 intervalo entende-se que não há uma divisão rígida entre o público e o
 privado, permitindo, assim, que espaços públicos possam sofrer
 interferências. Essa relação pode ser positiva enquanto o caráter da
 área não se altere, ou seja, o público permaneça acessível a todos. É
-comum que moradores sintam a necessidade de expandir sua esfera de
-influência sobre a área pública, havendo exemplos positivos e negativos
-dessas demarcações. Hortas, jardins comunitários e espaços de
-convivências são muitas vezes ofuscados por demarcações de canteiros que
-impedem o acesso de pedestres ao pilotis.
+comum, porém, que condomínios expandam sua esfera de influência sobre a
+área pública, com justificativas variadas e assumindo formas diversas.
+Hortas, jardins comunitários e espaços de convivência --- exemplos
+corriqueiros de demarcações privadas geralmente bem aceitas na percepção
+comunitária --- são muitas vezes ofuscados por simples demarcações de
+canteiros que canalizam o acesso de pedestres ao pilotis em percursos
+claramente delimitados e facilmente vigiados.
 
-Obra pública - É necessário fornecer espaços públicos com os quais a
-comunidade possa se sentir responsável, promovendo uma identificação e
-contribuição por parte dos usuários. Existe, porém um paradoxo com o
-conceito de bem-estar coletivo, onde um sistema é imposto à sociedade.
-Essa relação acaba subordinado as pessoas que acabam não se
-identificando com esse padrão. Os problemas começam no momento em que as
-escalas começam a ficar grandes demais, quando a manutenção de um espaço
-não pode mais ser dada àqueles que estão diretamente relacionados com
-ela, criando a necessidade de uma organização que nem sempre
-representará os interesses coletivos, mas seus próprios. O sentimento de
-responsabilidade se torna distante, já que o indivíduo torna-se cada vez
-mais irrelevante na medida em que as instâncias vão se tornando mais e
-mais burocráticas. Os habitantes da cidade tornam-se estranhos em seu
-próprio ambiente de vida.
+É necessário fornecer espaços públicos com os quais a comunidade possa
+se sentir responsável, promovendo uma identificação e contribuição por
+parte dos usuários. Existe, porém um paradoxo com o conceito de
+bem-estar coletivo, onde um sistema é imposto à sociedade. Essa relação
+acaba subordinado as pessoas que acabam não se identificando com esse
+padrão. Os problemas começam no momento em que as escalas começam a
+ficar grandes demais, quando a manutenção de um espaço não pode mais ser
+dada àqueles que estão diretamente relacionados com ela, criando a
+necessidade de uma organização que nem sempre representará os interesses
+coletivos, mas seus próprios. O sentimento de responsabilidade se torna
+distante, já que o indivíduo torna-se cada vez mais irrelevante na
+medida em que as instâncias vão se tornando mais e mais burocráticas. Os
+habitantes da cidade tornam-se estranhos em seu próprio ambiente de
+vida.
 
 
 Conclusão
 =========
 
-Em Brasília a Superquadra é o local onde as pessoas exercem sua
+Brasília tem sido "explicada", desde há décadas, a partir da aplicação
+*sui generis* e apropriação do conceito de escala. Alguns elementos de
+composição são componentes chave da estruturação urbana e qualidade
+estética da cidade, permeando entre as escalas e permitindo que os
+habitantes tenham uma relação harmônica com as diferentes dimensões da
+cidade. Essa relação entre escalas não acontece apenas no que diz
+respeito às grandezas que orquestram a vida do brasiliense descritas por
+Lucio Costa, mas também no cenário cotidiano representada pela relação
+dos moradores com o ambiente ao seu redor. A Superquadra e seus
+edifícios formam um conjunto que representa essas duas relações de
+escala. A primeira é parte estruturante do desenho e organização da
+cidade, enquanto o bloco é a principal forma de interação entre o
+pedestre e essa organização. As relações tornam-se cada vez mais ricas a
+medida que o ser humano é utilizado como parâmetro, simbolizado pela
+dinâmica entre o morador e o edifício.
+
+Em Brasília, a superquadra é o local onde as pessoas exercem sua
 influência sobre o espaço a partir do sentimento de pertencimento e zelo
-dos moradores. Existem algumas exceções como quadras funcionais que,
-por seu caráter transitório, não provocam em seus moradores a vontade de
-se apropriar do espaço. Esse limite bem determinado gera potenciais
+dos moradores. Existem algumas exceções como quadras funcionais que, por
+seu caráter transitório, não provocam em seus moradores a vontade de se
+apropriar do espaço. Esse limite bem determinado gera potenciais
 problemas, como os espaços de interseção acabam se tornando lugares sem
 dono, com os quais ninguém se sente responsável. Os fundos do comércio
-da asa sul são um exemplo de espaço que não pertence à quadra, mas
-também são renegados pelo próprio comércio.
+da Asa sul são um exemplo de espaço relegado ao limbo: concebidos para
+serem as calçadas de acesso principal às lojas, não pertencem à
+superquadra, sendo também renegados pelo próprio comércio; quando são
+apropriados como esplanadas gastronômicas, porém, também geram
+desconforto devido à territorialização do espaço.
 
-De usuário a morador - A diferenciação entre o público e o privado
-indica os locais mais propícios para que os usuários/ habitantes podem
-dar suas contribuições ao espaço. É a partir dessa contribuição os
-usuários tornam-se moradores. Em uma Superquadra a disposição dos
-edifícios e os vazios resultantes podem promover esse sentimento e
-incentivar uma ocupação por parte dos habitantes. O mesmo fenômeno pode
-ser observado em relação às fachadas quando um cobogó é transpassado por
-uma planta ou quando a varanda ou jardineira passam a ser caracterizados
-moradores. Essa referência é necessária para que os indivíduos tenham um
-sentimento de pertencimento, sem o qual não é possível haver
-colaboração.
-
-Esses exemplos mostram que em uma Superquadra --- por se tratar de um
+Esses exemplos mostram que em uma superquadra --- por se tratar de um
 espaço que permite constantes transições --- os termos público e privado
 nem sempre são os mais adequados. É mais pertinente dizer que os espaços
 livres de uma quadra, assim como o pilotis, são semi-privados ou
-semipúblicos. Nessa lógica é legítimo o uso do espaço público pelos
-moradores para seus próprios interesses e apenas indiretamente ao
-interesse dos outros. O caráter público do espaço é constantemente
-discutido. Ao mesmo tempo, é igualmente válida a apropriação de espaços
-como o pilotis por não moradores para seus interesses, contanto que não
-causem constrangimento ou intimidação aos demais usuários. Sabemos,
-entretanto, que a segunda situação é menos comum e que o que se vê com
-maior frequência é o que podemos chamar de "privatização" do espaço
-público por parte dos moradores, fortalecendo sua demarcação territorial
-nessa área aos olhos dos outros.
+semipúblicos. Nessa lógica é visto como legítimo o uso do espaço público
+pelos moradores para seus próprios interesses e apenas indiretamente ao
+interesse dos outros. O caráter público do espaço é, assim,
+constantemente posto à prova não apenas nas intervenções físicas sobre a
+paisagem, mas também nos percursos implícitos. A dinâmica entre
+aproximações e distanciamento entre os elementos que compõem a cidade e
+a Superquadra em relação aos moradores que o que torna a cidade tão rica
+em diversidade espacial e qualidade estética. É válida a analogia de que
+quanto maiores os espaços e construções, menores são as pessoas. Assim
+como quanto maior for a presença do morador, menores são os objetos com
+que ele interage.
 
-Brasília é uma cidade que foi concebida a partir da aplicação e
-apropriação do conceito de escala, podendo ser percebida a todo momento
-por seus moradores. Alguns elementos de composição são componentes chave
-da estruturação urbana e qualidade estética da cidade, permeando entre
-as escalas e permitindo que os habitantes tenham uma relação harmônica
-com as diferentes dimensões da cidade. Essa relação entre escalas não
-acontece apenas no que diz respeito às grandezas que orquestram a vida
-do brasiliense descritas por Lucio Costa, mas também no cenário
-cotidiano representada pela relação dos moradores com o ambiente ao seu
-redor. A Superquadra e seus edifícios formam um conjunto que representa
-essas duas relações de escala. A primeira é parte estruturante do
-desenho e organização da cidade, enquanto o bloco é a principal forma de
-interação entre o pedestre e essa organização. As relações tornam-se
-cada vez mais ricas a medida que o ser humano é utilizado como
-parâmetro, simbolizado pela dinâmica entre o morador e o edifício.
-
-A dinâmica entre aproximações e distanciamento entre os elementos que
-compõem a cidade e a Superquadra em relação aos moradores que o que
-torna a cidade tão rica em diversidade espacial e qualidade estética. É
-válida a analogia de que quanto maiores os espaços e construções,
-menores são as pessoas. Assim como quanto maior for a presença do
-morador, menores são os objetos com que ele interage. Quando tratamos de
-Brasília essa comparação não se limita ao meio físico, mas
-principalmente ao simbólico. O indivíduo e a coletividade são os grandes
-protagonistas do espaço, sendo a variável sob a qual as instituições se
-submetem. O espaço deixa de se impor sobre aqueles que o habitam e passa
-a ser transformado por eles. As pessoas podem desempenhar diversos
-papéis sob circunstâncias mutáveis, não apenas pela criação das
-condições necessárias mas também pelo incentivo real ao uso
-diferenciado.
+Ao tratar de Brasília, essa comparação não se limita ao meio físico, mas
+atinge ao simbólico por meio de relações abstratas e da apropriação de
+discursos. O diálogo entre experiência direta do espaço e mediação pelo
+discurso expõe dificuldades interpretativas e incoerências no desempenho
+dos lugares: contradições dialéticas inerentes ao confronto de uma
+criação autoral, concebida segundo um sistema moral e teleológico dado,
+com a multifacetada realidade do crescimento e consolidação da cidade
+real. O papel da crítica, neste caso, será, como propôs Manfredo Tafuri
+[-@tafuri:1980sfera], o de sempre chamar a atenção para a efetiva
+operação dos paradigmas arquitetônicos na realidade, dissipando a
+mistificação discursiva sempre que esta obscurecer a percepção de suas
+próprias contradições.
 
 
 Agradecimentos
@@ -815,3 +803,8 @@ Ministérios --- "escala monumental" --- emoldurada pelo *vazio* verde da
 para saída dos eixos são as exceções que, pela sua fixação na logística
 do transporte mais do que pela fruição do espaço, confirmam esta
 assertiva.
+
+[^6]: As questões de segregação social e retração da vida pública,
+conquanto relevantes para o processo de territorialização e zoneamento
+da superquadra, demandam um arsenal metodológico inteiramente diverso
+daquele atinente a este artigo.
