@@ -1,6 +1,9 @@
 [submodule "docs/reveal.js"]
 	path = docs/reveal.js
 	url = https://github.com/hakimel/reveal.js.git
+  shallow = true
 [submodule "spec/styles"]
 	path = spec/styles
 	url = https://github.com/citation-style-language/styles.git
+	shallow = true
+	sparsecheckout = true
