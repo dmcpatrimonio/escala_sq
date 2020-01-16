@@ -7,15 +7,16 @@ standalone             : True
 input-file             : 'escala-paranoa.md'
 output-file            : '_entrega/escala_sq.odt'
 default-image-extension: '.jpg'
+table-of-contents      : False
+number-sections        : True
 metadata:
-  table-of-contents    : False
-  number-sections      : True
   bibliography         : 'biblio.bib'
-  csl                  : 'spec/styles/associacao-brasileira-de-normas-tecnicas-ufrgs.csl'
+  csl                  : 'spec/styles/associacao-brasileira-de-normas-tecnicas-ufmg-face-full.csl'
   bibliography-title   : 'Referências bibliográficas'
-  # author               : ''
-  # affiliation          : ''
+  author               : ''
+  affiliation          : ''
 resource-path:
 - .
 - fig
-reference-doc          : '_recebido/paranoa.odt'
+reference-doc          : 'spec/paranoa.odt'
+template               : 'spec/template.fodt'
