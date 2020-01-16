@@ -18,4 +18,5 @@ metadata:
 resource-path:
 - .
 - fig
-reference-doc          : '_recebido/paranoa.odt'
+reference-doc          : 'spec/paranoa.odt'
+template               : 'spec/template.fodt'
