@@ -373,7 +373,7 @@ Brasília --- quanto da imposição de barreiras, como as pistas de alta
 velocidade.
 
 ![Esquema da unidade de vizinhança de Brasília. Desenho: Gabriel
-Solórzano](esquema.pdf){#fig:esquema}
+Solórzano](esquema.png){#fig:esquema}
 
 O acesso às quadras se faz através de um sistema de hierarquia viária
 decrescente, em árvore. Esta organização materializa o sentido de
@@ -492,7 +492,7 @@ modenatura.
 
 ![Instrumentos de composição propostos por Gorovitz para analisar a
 superquadra, adaptados pelos autores deste artigo. Desenho: Gabriel
-Solórzano, 2019](gorovitz.pdf){#fig:gorovitz}
+Solórzano, 2019](gorovitz.png){#fig:gorovitz}
 
 Dessas oito "disposições", algumas pertencem à esfera da reflexão
 conceitual sobre os valores abstratos do P.P.B.: é o caso do *partido*,
