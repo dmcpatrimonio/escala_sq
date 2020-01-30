@@ -1,17 +1,19 @@
 filters:
-# - pandoc-internalrefs
+- pandoc-xnos
 - pandoc-citeproc
 fail-if-warnings       : False
 file-scope             : True
 standalone             : True
-input-file             : 'escala-paranoa.md'
+# input-file             : 'escala-paranoa.md'
 output-file            : '_entrega/escala_sq.odt'
+from                   : 'markdown'
+to                     : 'odt'
 default-image-extension: '.jpg'
 table-of-contents      : False
 number-sections        : True
 metadata:
   bibliography         : 'biblio.bib'
-  csl                  : 'spec/styles/associacao-brasileira-de-normas-tecnicas-ufmg-face-full.csl'
+  csl                  : 'spec/styles/associacao-brasileira-de-normas-tecnicas-ufpr.csl'
   bibliography-title   : 'Referências bibliográficas'
   author               : ''
   affiliation          : ''

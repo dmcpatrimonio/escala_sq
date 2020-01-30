@@ -11,7 +11,7 @@ affiliation:
   ernestgabriel@gmail.com"
 date       : "Recebido em __/__/2020. Aceito em __/__/__"
 abstract: |
-  # Resumo
+  # Resumo {.unnumbered}
 
   As superquadras que caracterizam a malha urbana de Brasília são
   definidas por Lucio Costa, *a posteriori,* como a "escala residencial"
@@ -35,7 +35,7 @@ abstract: |
   **Palavras-chave:** Brasília (DF), Urbanismo modernista, Unidade de
   vizinhança, Morfologia urbana
 
-  # Abstract
+  # Abstract {.unnumbered}
 
   The superblocks that characterize Brasilia's urban fabric are defined
   by Lucio Costa, *a posteriori,* as the "residential scale" of the
@@ -66,6 +66,11 @@ keywords:
   Morfologia urbana
 nocite: "@costa:1974consideracoes"
 language: "Portuguese"
+fignos-caption-name   : 'Figura'
+xnos-caption-separator: 'colon'
+xnos-cleveref         : True
+xnos-capitalise       : True
+xnos-number-by-section: False
 ---
 
 Introdução
@@ -74,25 +79,23 @@ Introdução
 Dentre os princípios que balizam o universo modernista, poucos gozam de
 acolhida tão ampla quanto o da *unidade de vizinhança.* Oriundo da
 prática (sub) urbanística norte-americana no início do século XX, é
-teorizado por Clarence Perry em 1929. Adquire *pedigree* na Europa sob o
-apogeu da cidade-jardim, no período entre guerras, e faz-se presente na
-revisão do urbanismo funcionalista em torno aos últimos Congressos
-Internacionais de Arquitetura Moderna (CIAM), no imediato pós-guerra,
-para finalmente ser recepcionado no Novo Urbanismo, movimento formulado
-a partir de meados da década de 1970. Partindo da premissa formulada por
-Perry de que os bairros tradicionais são "defeituosos"
-[-@perry:1929neighborhood7, p. 27], o ideário do movimento Moderno leva
-a cabo uma reformulação integral não apenas da "vizinhança", mas também
-de suas componentes, como a quadra e o bloco edificado
-[@panerai:2013formas]. O resultado mais emblemático dessa reformulação,
-ao menos no âmbito da arquitetura erudita, é a superquadra de Brasília,
-concebida por Lucio Costa no *Relatório do Plano Pilôto de Brasília*
-(P.P.B.) vencedor, em 1957, do concurso para o projeto da nova capital
-federal.
+teorizado por Clarence Perry em 1929 (@fig:perry). Adquire *pedigree* na
+Europa sob o apogeu da cidade-jardim, no período entre guerras, e faz-se
+presente na revisão do urbanismo funcionalista em torno aos últimos Congressos
+Internacionais de Arquitetura Moderna (CIAM), no imediato pós-guerra, para
+finalmente ser recepcionado no Novo Urbanismo, movimento formulado a partir de
+meados da década de 1970. Partindo da premissa formulada por Perry de que os
+bairros tradicionais são "defeituosos" [-@perry:1929neighborhood7, p. 27],
+o ideário do movimento Moderno leva a cabo uma reformulação integral não apenas
+da "vizinhança", mas também de suas componentes, como a quadra e o bloco
+edificado [@panerai:2013formas]. O resultado mais emblemático dessa
+reformulação, ao menos no âmbito da arquitetura erudita, é a superquadra de
+Brasília, concebida por Lucio Costa no *Relatório do Plano Pilôto de Brasília*
+(P.P.B.) vencedor, em 1957, do concurso para o projeto da nova capital federal.
 
 ![Representação da unidade de vizinhança de Clarence Perry
 [-@perry:1929neighborhood7, p. 20]
-](https://upload.wikimedia.org/wikipedia/commons/5/5e/Clarence_Perry%27s_Neighborhood_Unit%2C_1928.jpg){#fig:perry}
+](https://upload.wikimedia.org/wikipedia/commons/5/5e/Clarence_Perry%27s_Neighborhood_Unit%2C_1928.jpg){#fig:perry width=12cm}
 
 É na Superquadra que se manifesta de modo mais característico a
 modernidade que perpassa o projeto de Lucio Costa [@eldahdah:2005case],
@@ -110,18 +113,17 @@ de malha viária, parcelamento do solo e edificação,
 [@panerai:2006analise] ---, bem como as próprias dimensões de
 compreensão do espaço urbano [@holston:1989modernist].
 
-A unidade de vizinhança de Brasília é, ao mesmo tempo, elemento
-compositivo estruturante do desenho da cidade e núcleo da vida
-cotidiana. Por isso, uma discussão mais precisa da morfologia das
-superquadras, bem como das implicações de sua escala para a apropriação
-do usuário --- de modo semelhante ao que vem sendo debatido no tocante à
-metropolização da capital [@lima:2019brasilia10] e à extensa orla do
-lago Paranoá [@bercott:2017historia] ---, é crucial para a reflexão
-sobre a preservação do conjunto urbanístico de Brasília e sobre os rumos
-do pensamento modernista na contemporaneidade.
+A unidade de vizinhança de Brasília (@fig:uvrppb) é, ao mesmo tempo, elemento
+compositivo estruturante do desenho da cidade e núcleo da vida cotidiana. Por
+isso, uma discussão mais precisa da morfologia das superquadras, bem como das
+implicações de sua escala para a apropriação do usuário --- de modo semelhante
+ao que vem sendo debatido no tocante à metropolização da capital
+[@lima:2019brasilia10] e à extensa orla do lago Paranoá [@bercott:2017historia]
+---, é crucial para a reflexão sobre a preservação do conjunto urbanístico de
+Brasília e sobre os rumos do pensamento modernista na contemporaneidade.
 
 ![Lucio Costa, Unidade de vizinhança no *Relatório do Plano Piloto de
-Brasília* [-@costa:1957relatorio]](uvppb){#fig:uvrppb}
+Brasília* [-@costa:1957relatorio]](uvppb){#fig:uvrppb width=12cm}
 
 Este artigo tem o propósito de averiguar a aplicabilidade de certos
 procedimentos de classificação e avaliação do espaço aberto e de sua
@@ -248,14 +250,14 @@ Anos mais tarde, Lucio Costa criará outro expediente conceitual *sui
 generis* na formulação do sistema das "quatro escalas de Brasília". Em
 Costa, o conceito de "escala" designa não a razão entre dimensões
 físicas dos elementos espaciais, mas categorias de leitura do seu
-projeto segundo o caráter geral das diversas áreas da cidade. Ele
-emprega a palavra "escala" para designar essas categorias pela primeira
-vez numa entrevista de 1961 ao *Jornal do Brasil* [@marquez:2009,
-p. 43]. No entanto, é somente em 1974 que ele sugere com maior clareza o
-sistema das quatro escalas. Finalmente, no artigo "Brasília revisitada"
-[-@costa:1987brasilia, p. 116], Costa será taxativo: "a concepção urbana
-de Brasília se traduz em quatro escalas: a monumental, a residencial, a
-gregária e a bucólica."
+projeto segundo o caráter geral das diversas áreas da cidade (@fig:aerea). Ele
+emprega a palavra "escala" para designar essas categorias pela primeira vez
+numa entrevista de 1961 ao *Jornal do Brasil* [@marquez:2009, p. 43].
+No entanto, é somente em 1974 que ele sugere com maior clareza
+o sistema das quatro escalas. Finalmente, no artigo "Brasília revisitada"
+[-@costa:1987brasilia, p. 116], Costa será taxativo: "a concepção urbana de
+Brasília se traduz em quatro escalas: a monumental, a residencial, a gregária
+e a bucólica."
 
 ![Vista aérea da Asa Sul. As superquadras, no primeiro plano,
 pertencem à "escala residencial"; as "escalas" gregária e monumental são
@@ -263,7 +265,7 @@ representadas pelas edificações da zona central, ao fundo; a "escala
 bucólica" perpassa as Asas residenciais e o parque, visível no plano
 intermediário. Foto: Sílvio Cavalcante [-@cavalcante:superquadras]
 ](http://www.jobim.org/lucio/bitstream/handle/2010.3/4194/III B 05-03929
-L.jpg){#fig:aerea}
+L.jpg){#fig:aerea width=12cm}
 
 Para se ter uma melhor noção do sentido peculiar conferido por Lucio
 Costa ao termo "escala", veja-se o que Philippe Boudon tem a dizer sobre
@@ -355,8 +357,11 @@ sempre abraçados pelas áreas de uso coletivo. A configuração aberta das
 "Asas" residenciais faz com que as unidades de vizinhança se
 interpenetrem, não havendo compartimentação estrita entre cada uma. No
 entanto, apenas a unidade composta pelas quadras 107, 108, 307 e 308 da
-asa Sul afigura-se completa, contendo todos os equipamentos urbanos
-previstos no *Relatório do P.P.B.*
+asa Sul (@fig:esquema) afigura-se completa, contendo todos os equipamentos
+urbanos previstos no *Relatório do P.P.B.*
+
+![Esquema da unidade de vizinhança de Brasília. Desenho: Gabriel
+Solórzano](esquema.png){#fig:esquema width=12cm}
 
 A unidade de vizinhança tem como objetivo promover o convívio a partir
 das relações cotidianas, assim como em bairros de cidades tradicionais,
@@ -371,9 +376,6 @@ absolutas --- na unidade concebida por Perry, é um círculo com 400
 metros de raio, tendo dimensão semelhante a unidade de vizinhança de
 Brasília --- quanto da imposição de barreiras, como as pistas de alta
 velocidade.
-
-![Esquema da unidade de vizinhança de Brasília. Desenho: Gabriel
-Solórzano](esquema.pdf){#fig:esquema}
 
 O acesso às quadras se faz através de um sistema de hierarquia viária
 decrescente, em árvore. Esta organização materializa o sentido de
@@ -426,15 +428,15 @@ escalas e elementos:
 > novembro de 1961, *apud* @baratto:2019escalas]
 
 No contexto da superquadra, as relações de escala geométrica entre
-edifícios, cinturão verde e os vãos do sistema viário têm papel
-preponderante na afirmação do caráter cotidiano e acolhedor do local,
-onde se deixa para trás os grandes espaços dominados pelo automóvel e
-este se encontra, nos dizeres do *Relatório do P.P.B.,* "domesticado"
-como "membro da família" (antropomorfização visionária, que prenuncia o
-estilo de vida *sobre rodas* da burguesia brasiliense!).
+edifícios, cinturão verde (@fig:alameda) e os vãos do sistema viário têm papel
+preponderante na afirmação do caráter cotidiano e acolhedor do local, onde se
+deixa para trás os grandes espaços dominados pelo automóvel e este se encontra,
+nos dizeres do *Relatório do P.P.B.,* "domesticado" como "membro da família"
+(antropomorfização visionária, que prenuncia o estilo de vida *sobre rodas* da
+burguesia brasiliense!).
 
 ![Alameda pedestre no cinturão verde da superquadra 308 Sul. Foto:
-Gabriel Solórzano, 2020](alameda){#fig:alameda}
+Gabriel Solórzano, 2020](alameda){#fig:alameda width=12cm}
 
 O cinturão verde serve, em primeira instância, para mascarar os
 edifícios --- Costa já antevê, desde 1957, o frustrante percurso do
@@ -488,11 +490,11 @@ funcionalista que propõe ainda Gorovitz, ao estabelecer oito
 poderíamos chamá-las, com mais propriedade, de *instrumentos de
 composição.* São estas: partido; axialidade; eurritmia; comodulação e
 proporção; simetria; traçado regulador; isonomia e ubiquidade; e
-modenatura.
+modenatura (@fig:gorovitz).
 
 ![Instrumentos de composição propostos por Gorovitz para analisar a
 superquadra, adaptados pelos autores deste artigo. Desenho: Gabriel
-Solórzano, 2019](gorovitz.pdf){#fig:gorovitz}
+Solórzano, 2019](gorovitz.png){#fig:gorovitz width=16cm}
 
 Dessas oito "disposições", algumas pertencem à esfera da reflexão
 conceitual sobre os valores abstratos do P.P.B.: é o caso do *partido*,
@@ -590,13 +592,17 @@ ao espaço fluido. Áreas ostensivamente intituladas como "praças" são
 desprovidas da tradicional delimitação espacial por meio de massas
 edificadas; em contraste, lugares, via de regra internos à superquadra,
 que efetivamente são constituídos e delimitados, não recebem o nome de
-"praças", mas funcionam espacialmente como tais.
+"praças", mas funcionam espacialmente como tais (@fig:espacos).
 
-![](espacos.1.png)
+::: {#fig:espacos custom-style="FigureWithCaption"}
+
+![](espacos.1.png){width=7cm} ![](espacos.2.png){width=7cm}
+
+:::
 
 ![Sistemas espaciais da superquadra: espaço contínuo modernista e
 espaço-figura tradicional. Desenho: Gabriel Solórzano, 2020
-](espacos.2.png){#fig:espacos}
+](espacos.2.png){#fig:espacos width=0}
 
 Dois sistemas espaciais coexistem no interior da superquadra e são
 percebidos em alternância. De um lado, o espaço contínuo na superfície
@@ -663,12 +669,12 @@ espaciais no texto.[^5] O interior da superquadra, tal como representado
 em croquis por Lucio Costa, é (intencionalmente?) ambíguo quanto à
 existência de um leito carroçável pavimentado e diferenciado com
 respeito à superfície genérica do solo. As vias mais nitidamente
-demarcadas, como a rua comercial ou os estacionamentos entre blocos,
-deveriam ter marcado caráter de "fundos".
+demarcadas, como a rua comercial ou os estacionamentos entre blocos
+(@fig:corredor), deveriam ter marcado caráter de "fundos".
 
 ![Rua-corredor configurada entre os fundos de três blocos residenciais
 da superquadra Sul 314. Foto: Gabriel Solórzano, 2020
-](corredor){#fig:corredor}
+](corredor){#fig:corredor width=12cm}
 
 O tropismo da rua--corredor tradicional acaba, todavia, por se impor
 sobre a intenção do urbanista; seja por atavismo espacial ou estético
@@ -678,11 +684,12 @@ acesso, como o fazem as guaritas de portaria dos blocos e, em edifícios
 mais recentes, mesmo as fachadas. Nessa escala, começa a observar-se,
 portanto, uma reversão total da lógica urbanística do P.P.B.: as
 oportunidades e demandas atinentes às próprias edificações adquirem a
-capacidade de determinar a configuração e apropriação do espaço público.
+capacidade de determinar a configuração e apropriação do espaço público
+(@fig:cls).
 
 ![Territorialização do espaço entre o renque do comércio local e o
 cinturão verde da superquadra Sul 315. Foto: Gabriel Solórzano, 2020
-](cls){#fig:cls}
+](cls){#fig:cls width=12cm}
 
 Esta mudança se inicia com a afirmação de territorialidades privadas
 sobre o espaço público imediatamente circundante às edificações. Ao
@@ -772,11 +779,11 @@ Hortas, jardins comunitários e espaços de convivência --- exemplos
 corriqueiros de demarcações privadas geralmente bem aceitas na percepção
 comunitária --- são muitas vezes ofuscados por simples demarcações de
 canteiros que canalizam o acesso de pedestres ao pilotis em percursos
-claramente delimitados e facilmente vigiados.
+claramente delimitados e facilmente vigiados (@fig:bloco).
 
 ![Demarcação privada no espaço público em frente a um bloco residencial
 da superquadra. Foto: arquivo Iphan [-@iphan:2015superquadra, p. 23]
-](cartilha23){#fig:bloco}
+](cartilha23){#fig:bloco width=12cm}
 
 É necessário fornecer espaços públicos com os quais a comunidade possa
 se sentir responsável, promovendo uma identificação e contribuição por
@@ -856,7 +863,7 @@ mistificação discursiva sempre que esta obscurecer a percepção de suas
 próprias contradições.
 
 
-Referências bibliográficas
+Referências bibliográficas {.unnumbered}
 ==========================
 
 
