@@ -12,8 +12,8 @@ default-image-extension: '.jpg'
 table-of-contents      : False
 number-sections        : True
 metadata:
-  bibliography         : 'biblio.bib'
-  csl                  : 'spec/styles/associacao-brasileira-de-normas-tecnicas-ufpr.csl'
+  bibliography         : '_bibliography/references.bib'
+  csl                  : '_csl/associacao-brasileira-de-normas-tecnicas-ufpr.csl'
   bibliography-title   : 'Referências bibliográficas'
   author               : ''
   affiliation          : ''

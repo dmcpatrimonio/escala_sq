@@ -65,12 +65,7 @@ keywords:
   Unidade de vizinhança
   Morfologia urbana
 nocite: "@costa:1974consideracoes"
-language: "Portuguese"
-fignos-caption-name   : 'Figura'
-xnos-caption-separator: 'colon'
-xnos-cleveref         : True
-xnos-capitalise       : True
-xnos-number-by-section: False
+lang: pt-BR
 ---
 
 Introdução

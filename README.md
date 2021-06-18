@@ -1,62 +1,63 @@
-Research project template
-=========================
+# A escala residencial na superquadra de Brasília #
 
-Contents
---------
+## Paradigma ou mistificação? ##
 
-This repository is a template for starting new research project
-repositories. It comes preloaded with some useful stuff:
+### Resumo ###
 
-- Citation Style Language [citation
-  styles](https://github.com/citation-style-language/styles) installed
-  as a submodule in `spec/` for managing citations; styles than come
-- A `.gitignore` file for LaTeX and Jekyll (the latter being used for
-  GitHub pages) using GitHub's [gitignore
-  templates](https://github.com/github/gitignore) as well as providing
-  an `_output` folder where I store generated PDFs and Word files;
-- GitHub pages set up to use `docs/` on the Master branch;
-- [Reveal.js](https://revealjs.com/) installed as a submodule in
-  `docs/` for creating web-based slide presentations;
-- A preconfigured `_config.yml` for Jekyll so it does not try to mess
-  with you Reveal.js installation or to generate a web page from the
-  README (there is a set of default options for using Pandoc to
-  generate `docs/index.html` from the README, see below);
-- Preconfigured defaults for generating documents with
-  [Pandoc](http://pandoc.org), in the `spec` folder.
+As superquadras que caracterizam a malha urbana de Brasília são
+definidas por Lucio Costa, *a posteriori,* como a "escala residencial"
+da cidade: um jogo de palavras que obscurece o entendimento de como se
+estrutura o tecido residencial da capital. Visando a perceber com
+maior clareza as relações de escala --- no sentido convencional, isto
+é, geométrico, da palavra --- na superquadra, abordam-se inicialmente
+as contradições inerentes à abstração espacial e discursiva no
+modernismo. Em seguida, analisam-se as relações de escala na área
+residencial de Brasília em três níveis sucessivos: as articulações de
+escala da unidade de vizinhança, os elementos de composição espacial
+na superquadra, e o papel dos edifícios na concretização das escalas
+e espacialidades peculiares ao urbanismo desta cidade. A cada passo,
+observa-se como as categorias interpretativas avançadas por diversos
+estudiosos de Brasília e da arquitetura moderna se articulam, nos seus
+esclarecimentos e contradições, com a abstração e ambiguidade espacial
+da superquadra. O conjunto assim indissociável de espaços e discursos
+sustenta o paradigma do habitar moderno, ao preço, porém, de se erigir
+um sistema de mistificações conceituais.
 
-This is the general setup I use to start a research project writing in
-Markdown and using Pandoc to generate PDFs or Word documents. It works
-nicely in conjunction with an Open Science Framework project. I have
-tried to keep it simple and avoid feature bloat. Feel free to share
-your favorite starter setup with me on Twitter.
+**Palavras-chave:** Brasília (DF), Urbanismo modernista, Unidade de
+vizinhança, Morfologia urbana
 
-Usage
------
+### Abstract ###
 
-Click on the "Use this template" button above the file list and see
-further instructions on the page [Creating a repository from a
-template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-on GitHub's Help documentation.
+The superblocks that characterize Brasilia's urban fabric are defined
+by Lucio Costa, *a posteriori,* as the "residential scale" of the
+city: a play on words that obscures a proper understanding of how the
+housing mass of the Brazilian capital is structured. In order to
+perceive more clearly the relations of scale --- in its conventional,
+that is, geometric, sense --- in the superblock, we begin by
+addressing the contradictions inherent in the spatial and discursive
+abstraction of modernism. From there, we analyze the scale
+relationships in Brasilia's residential area according to three
+successive scopes: the scale articulations around its neighborhood
+unit, the elements of spatial composition in the superblock, and the
+role buildings play in actualizing the scales and spatial relations
+peculiar to this city's urbanism. At each step, we note how the
+interpretive categories put forward by several scholars of Brasilia
+and of modern architecture come together, in their clarifications as
+well as contradictions, with the abstraction and spatial ambiguity of
+the superblock. The complex, thus made indivisible, of spaces and
+discourses upholds the paradigm of modern dwelling, yet this comes at
+the price of erecting a system of conceptual deceptions.
 
-You may also fork this repository to create your own template, or
-contribute features to this one.
+**Keywords:** Brasilia (Brazil), Modernist urbanism, Neighborhood
+unit, Urban morphology
 
-License
--------
+* * *
 
-This repository is licensed under the [GPL
-v3](https://raw.githubusercontent.com/licenses/license-templates/master/templates/gpl3.txt),
-meaning you can do whatever you like with your fork of it, and I
-provide no guarantee whatsoever that it will not cause your house to
-burst up in flames or other unintended side effects.
-
-The Citations Styles Language Styles belong to
-[CitationStyles.org](http://citationstyles.org/) and are licensed
-under the [Creative Commons Attribution-ShareAlike 3.0 Unported
-license](http://creativecommons.org/licenses/by-sa/3.0/). The
-Reveal.js framework is Copyright (C) 2019 Hakim El Hattab,
-http://hakim.se, and is licensed under the [MIT
-License](https://raw.githubusercontent.com/licenses/license-templates/master/templates/mit.txt).
-I am not affiliated in any way with any of the organizations or people
-whose software I have included here.
+ escala_sq (c) 2021 by Pedro P. Palazzo and Gabriel Ernesto Moura Solórzano
+ 
+ escala_sq is licensed under a
+ Creative Commons Attribution 3.0 Unported License.
+ 
+ You should have received a copy of the license along with this
+ work.  If not, see <http://creativecommons.org/licenses/by/3.0/>.
 

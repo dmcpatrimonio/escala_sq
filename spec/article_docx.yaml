@@ -10,7 +10,7 @@ to                     : 'docx'
 table-of-contents      : False
 number-sections        : False
 csl                    : 'http://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl'
-bibliography           : 'biblio.bib'
+bibliography           : '_bibliography/references.bib'
 suppress-bibliography  : False
 resource-path:
 - .
